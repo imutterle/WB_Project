@@ -1,0 +1,17 @@
+#footer, #push {
+    height: 50px; 
+    clear: both;
+    background-color: #757575;
+
+}
+
+html, body {
+    height: 100%;
+}
+
+#container {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -50px; 
+}
