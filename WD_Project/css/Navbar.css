@@ -1,0 +1,139 @@
+h4 {
+  margin-top: 25px;
+}
+h1{
+    margin-top: 70px;
+}
+.row {
+  margin-bottom: 20px;
+}
+.row .row {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+[class*="col-"] {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #eee;
+  background-color: rgba(86,61,124,.15);
+  border: 1px solid #ddd;
+  border: 1px solid rgba(86,61,124,.2);
+}
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+body { background: rgb(255, 255, 255) !important;
+}
+.navbar li a {
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: white !important;
+}
+.navbar-inverse .navbar-brand{
+    color: aqua;
+}
+.dropdown li{
+    background-color: red;
+}
+.dropdown li a{
+    background-color: black;
+}
+.dropdown {
+    margin-right: 15px;
+}
+.navbar-inverse .navbar-toggle{
+    background-color: green !important;
+}
+.navbar-inverse .navbar-toggle .icon-bar{
+    background-color: blue !important;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus,
+.navbar .navbar-brand:active,
+.navbar .navbar-brand.active {
+    color: #0000ff;
+    background-color: brown;
+}   
+.navbar li a:hover,
+.navbar li a:focus,
+.navbar li a:active,
+.navbar li a.active{
+    color:red !important;
+    background-color: darkviolet !important;
+}
+.divider{
+    background-color: red !important;
+}
+
+input[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    margin-top: 10px;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+    width: 100%;
+}
+/*MEDIA QUERIES*/
+			@media only screen and (min-width: 1170px) {
+ 
+				.carousel-caption h1 {
+				  display: none;
+				}
+			 
+				.carousel-caption p {
+				  font-size: 30px;
+				   color: blue;
+                    margin-bottom: 20%;
+				}
+			}
+			
+			@media only screen and (min-width: 850px) and (max-width: 1169px) {
+ 
+				.carousel-caption h1 {
+				  font-size: 50px;
+				  color: green;
+                   margin-bottom: auto;
+				}
+			 
+				.carousel-caption p {
+				  font-size: 20px;
+				   color: green;
+                 margin-bottom: 15%;
+				}
+			}
+			
+			@media only screen and (min-width: 500px) and (max-width: 849px) {
+ 
+				.carousel-caption h1 {
+				  font-size: 30px;
+				  color: violet;
+                     margin-bottom: auto;
+				}
+			 
+				.carousel-caption p {
+				  font-size: 12px;
+				   color: violet;
+                    margin-bottom: 10%;
+				}
+			}
+			
+			@media only screen and (max-width: 499px) {
+ 
+				.carousel-caption h1 {
+				  font-size: 15px;
+				  color: black;
+                     margin-bottom: auto;
+				}
+			 
+				.carousel-caption p {
+				  font-size: 8px;
+				   color: black;
+                    margin-bottom: 5%;
+				}
+			}
