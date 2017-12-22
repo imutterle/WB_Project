@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<html lang="it">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="it">
 <head>
 <!-- Viewport -->
 <meta charset="utf-8">
@@ -14,6 +15,9 @@
 <!-- Head stuffs -->
 <title>Progetto Web Design</title>
 
+<meta http-equiv="description" content="page description" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />   
+    
 <!-- Custom CSS -->
 <link href="../css/styleSheetProgetto.css" rel="stylesheet">
 <link href="../css/footerWebPage.css" rel="stylesheet">
@@ -69,15 +73,8 @@
                 </nav>
         </div>
         <div id="container" class="container-12">
+        </div>    
             
-            
-        </div>
-        <div id="footer" class="container-12">
-            <footer class="footer">
-                <div class="container">
-                    <p>Questo è il testo del footer.</p>
-                </div>
-            </footer>
-        </div>
+        <?php include("footer.html"); ?>
 </body>
 </html>
