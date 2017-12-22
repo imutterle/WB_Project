@@ -1,58 +1,66 @@
 /*MEDIA QUERIES*/
-			@media only screen and (min-width: 1170px) {
- 
-				.carousel-caption h1 {
-				  display: none;
-				}
-			 
-				.carousel-caption p {
-				  font-size: 30px;
-				   color: blue;
-                    margin-bottom: 20%;
-				}
-			}
-			
-			@media only screen and (min-width: 850px) and (max-width: 1169px) {
- 
-				.carousel-caption h1 {
-				  font-size: 50px;
-				  color: green;
-                   margin-bottom: auto;
-				}
-			 
-				.carousel-caption p {
-				  font-size: 20px;
-				   color: green;
-                 margin-bottom: 15%;
-				}
-			}
-			
-			@media only screen and (min-width: 500px) and (max-width: 849px) {
- 
-				.carousel-caption h1 {
-				  font-size: 30px;
-				  color: violet;
-                     margin-bottom: auto;
-				}
-			 
-				.carousel-caption p {
-				  font-size: 12px;
-				   color: violet;
-                    margin-bottom: 10%;
-				}
-			}
-			
-			@media only screen and (max-width: 499px) {
- 
-				.carousel-caption h1 {
-				  font-size: 15px;
-				  color: black;
-                     margin-bottom: auto;
-				}
-			 
-				.carousel-caption p {
-				  font-size: 8px;
-				   color: black;
-                    margin-bottom: 5%;
-				}
-			}
+@media (max-width: 1920px) {
+
+    .carousel-caption h1 {
+      font-size: 120px;
+        color: black;
+    }
+
+    .carousel-caption p {
+      font-size: 20px;
+    }
+}
+
+@media (max-width: 1280px) {
+    .carousel-caption h1 {
+        font-size: 100px;
+         color: black;
+    }
+
+    .carousel-caption p {
+      font-size: 20px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .carousel-caption h1 {
+      font-size: 80px;
+        color: black;
+    }
+
+    .carousel-caption p {
+      font-size: 15px;
+    }
+}
+
+@media (max-width: 800px) {
+    .carousel-caption h1 {
+      font-size: 60px;
+    }
+
+    .carousel-caption p {
+      font-size: 12px;
+    }
+}
+
+@media (max-width: 700px) {
+    .carousel-caption h1 {
+      font-size: 40px;
+    }
+
+    .carousel-caption p {
+      font-size: 8px;
+    }
+}
+
+@media (max-width: 500px) {
+  .carousel-caption h1 {
+      font-size: 30px;
+      display: none; /*nascondo il testo se la risoluzione è troppo bassa*/
+    }
+
+    .carousel-caption p {
+      font-size: 5px;
+      display: none;
+    }
+}
