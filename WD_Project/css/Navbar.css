@@ -33,10 +33,10 @@ body { background: rgb(255, 255, 255) !important;
     color: white !important;
 }
 .navbar-inverse .navbar-brand{
-    color: aqua;
+    color: white;
 }
 .dropdown li{
-    background-color: red;
+    background-color: white;
 }
 .dropdown li a{
     background-color: black;
@@ -45,27 +45,27 @@ body { background: rgb(255, 255, 255) !important;
     margin-right: 15px;
 }
 .navbar-inverse .navbar-toggle{
-    background-color: green !important;
+    background-color: currentColor;
 }
 .navbar-inverse .navbar-toggle .icon-bar{
-    background-color: blue !important;
+    background-color: currentColor;
 }
 .navbar .navbar-brand:hover,
 .navbar .navbar-brand:focus,
 .navbar .navbar-brand:active,
 .navbar .navbar-brand.active {
-    color: #0000ff;
-    background-color: brown;
+    color:currentColor;
+    background-color: white;
 }   
 .navbar li a:hover,
 .navbar li a:focus,
 .navbar li a:active,
 .navbar li a.active{
-    color:red !important;
-    background-color: darkviolet !important;
+    color:white;
+    background-color: white!important;
 }
 .divider{
-    background-color: red !important;
+    background-color: white!important;
 }
 
 input[type=text] {
