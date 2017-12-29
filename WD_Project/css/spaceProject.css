@@ -2,3 +2,18 @@
     max-width: 100%;
     height: auto;
 }
+
+.col-md-4 {
+    background-color: transparent;
+    border-style: none;
+}
+.col-md-6 {
+    background-color: transparent;
+    border-style: none;
+}
+
+.exp-details {
+    text-align: center;
+    border-bottom: 2px solid black;
+    border-color: black;
+}
