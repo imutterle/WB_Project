@@ -1,81 +1,55 @@
-h4 {
-  margin-top: 25px;
-}
-h1{
-    margin-top: 70px;
-}
-.row {
-  margin-bottom: 20px;
-}
-.row .row {
-  margin-top: 10px;
-  margin-bottom: 0;
-}
-[class*="col-"] {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #eee;
-  background-color: rgba(86,61,124,.15);
-  border: 1px solid #ddd;
-  border: 1px solid rgba(86,61,124,.2);
-}
+/*VOCI MENU*/
 
-hr {
-  margin-top: 40px;
-  margin-bottom: 40px;
-}
-body { background: rgb(255, 255, 255) !important;
-}
+/*tutte le voci del menu in maiuscolo*/
 .navbar li a {
     text-transform: uppercase;
     font-weight: 500;
     letter-spacing: 1px;
     color: white !important;
 }
+
+/*colore del brand in maiuscolo*/
 .navbar-inverse .navbar-brand{
+    text-transform: uppercase;
     color: white;
-}
-.dropdown li{
-    background-color: white;
-}
-.dropdown li a{
-    background-color: black;
-}
-.dropdown {
-    margin-right: 15px;
-}
-.navbar-inverse .navbar-toggle{
-    background-color: currentColor;
-}
-.navbar-inverse .navbar-toggle .icon-bar{
-    background-color: currentColor;
 }
 .navbar .navbar-brand:hover,
 .navbar .navbar-brand:focus,
 .navbar .navbar-brand:active,
 .navbar .navbar-brand.active {
-    color:currentColor;
-    background-color: white;
-}   
-.navbar li a:hover,
-.navbar li a:focus,
-.navbar li a:active,
-.navbar li a.active{
     color:white;
-    background-color: white!important;
+    background-color: none;
+}   
+
+/*DROPDOWN*/
+/*voci del menu dropdown*/
+.dropdown li{
+    background-color: white;
 }
-.divider{
-    background-color: white!important;
+.dropdown li a{
+    background-color: white;
+}
+.dropdown {
+    margin-right: 15px;
+}
+/*colore menu dropdown*/
+.navbar-inverse .navbar-toggle{
+    background-color: white;
+}
+.navbar-inverse .navbar-toggle .icon-bar{
+    background-color: white;
 }
 
+
+/*SEARCH*/
 input[type=text] {
-    width: 130px;
+    width: 130px; /*dimensione "search"*/
     -webkit-transition: width 0.4s ease-in-out;
     transition: width 0.4s ease-in-out;
     margin-top: 10px;
 }
 
-/* When the input field gets focus, change its width to 100% */
+/* quando seleziono "search" ridimensionala di 100%*/
 input[type=text]:focus {
     width: 100%;
 }
