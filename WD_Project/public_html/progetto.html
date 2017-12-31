@@ -17,6 +17,9 @@
                 <!-- Custom CSS -->
                 <link href="../css/Navbar.css" rel="stylesheet">
                 <link href="../css/MediaQueries.css" rel="stylesheet">
+                <link href="../css/Carousel.css" rel="stylesheet">
+                <link href="../css/spaceProject.css" rel="stylesheet">
+                <link href="../css/footerWebPage.css" rel="stylesheet">
                 <!-- Script -->
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
                 <script src="../js/bootstrap.js"></script>
@@ -124,6 +127,90 @@
               </a>
         </div>
         
-        <!-- Inserite qui i contenuti della pagina web -->
+        <!-- FOOTER -->
+        <!--BISOGNA FISSARLA IN BASSO         -->
+
+            <div class="container" id="footer">
+                <footer class="footer">
+                    <div class="container">
+                        <a data-toggle="modal" data-target="#FormCU"><button type="button" class="btn">Contact Us</button></a> 
+                        <a data-toggle="modal" data-target="#FormNL"><button type="button" class="btn">Newsletter</button></a> 
+                    </div>
+                </footer>
+            </div>
+        
+        <!-- Costruzione Form Contact Us -->
+        <div id="FormCU" class="modal fade" tabindex="-1" role="dialog">
+              <div class="modal-dialog">
+                    <div class="modal-content">
+                            <div class="modal-body">
+                                <form class="form-horizontal" action=" " method="post"  id="contact_form">
+                                    <fieldset>
+                                        <legend>Contact Us!</legend>
+                                    </fieldset>
+                                    <div class="form-group">
+                                            <div class="col-md-12 nameUS">
+                                                    <div class="col-md-1 formUS"><i class="glyphicon glyphicon-user"></i></div>
+                                                    <div class="col-md-2 formUS"><label class="labelUS">Name</label></div>
+                                                    <div class="col-md-9 formUS"><input class="form-control" name="first_name" placeholder="Full Name" type="text"></div>
+                                            </div>
+                                            <div class="col-md-12 listUS">
+                                                    <div class="col-md-1 formUS"><i class="glyphicon glyphicon-list"></i></div>
+                                                    <div class="col-md-11 formUS">
+                                                        <select name="numero" class="form-control selectpicker">
+                                                              <option>Reason to contact us</option>
+                                                              <option>Job opportunity</option>
+                                                              <option>General question</option>
+                                                              <option>Question about experiences</option>
+                                                              <option>Error reporting</option>
+                                                              <option>Complaint</option>
+                                                        </select>
+                                                    </div>
+                                            </div>
+                                            <div class="col-md-12 emailUS">
+                                                    <div class="col-md-1 formUS"><i class="glyphicon glyphicon-envelope"></i></div>
+                                                    <div class="col-md-2 formUS"><label class="labelUS">E-mail</label></div>
+                                                    <div class="col-md-9 formUS"><input class="form-control" name="e_mail" placeholder="E-mail" type="text"></div>
+                                            </div>
+                                            <div class="col-md-12 messageUS">
+                                                    <div class="col-md-1 formUSmex"><i class="glyphicon glyphicon-pencil"></i></div>
+                                                    <div class="col-md-2 formUSmex"><label class="labelUS">Message</label></div>
+                                                    <div class="col-md-9 formUSmex"><textarea class="form-control" name="message" placeholder="Message" type="text"></textarea></div>
+                                            </div>
+                                            <div class="col-md-12 submitUS">
+                                                    <div class="col-md-12 formUS"><button type="button" class="btn">Submit</button></div>
+                                            </div>
+                                    </div>
+                                </form>
+                            </div>
+                    </div>
+                </div>
+        </div>
+        
+        <!-- Costruzione Form Newsletter -->
+        <div id="FormNL" class="modal fade" tabindex="-1" role="dialog">
+              <div class="modal-dialog">
+                    <div class="modal-content">
+                            <div class="modal-body">
+                                <form class="form-horizontal" action=" " method="post"  id="contact_form">
+                                    <fieldset>
+                                        <legend>Newsletter</legend>
+                                    </fieldset>
+                                    <div class="form-group">                                            
+                                            <div class="col-md-12 inputGroupContainer">
+                                                    <div class="col-md-1"><i class="glyphicon glyphicon-envelope"></i></div>
+                                                    <div class="col-md-2"><label class="control-label">E-mail</label></div>
+                                                    <div class="col-md-9"><input class="form-control" name="e_mail" placeholder="E-mail" type="text"></div>
+                                            </div>
+                                            <div class="col-md-12 inputGroupContainer">
+                                                    <div class="col-md-12"><button type="button" class="btn">Submit</button></div>
+                                            </div>
+                                    </div>
+                                </form>
+                            </div>
+                    </div>
+                </div>
+        </div>
+        
    </body>
 </html>
