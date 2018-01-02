@@ -21,6 +21,7 @@
                 <link href="../css/spaceProject.css" rel="stylesheet">
                 <link href="../css/footerWebPage.css" rel="stylesheet">
                 <link href="../css/footer.css" rel="stylesheet">
+                <link href="../css/icone.css" rel="stylesheet">
                 <!-- Script -->
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
                 <script src="../js/bootstrap.js"></script>
@@ -43,17 +44,17 @@
                             </button>
                             
                             <!-- Brand -->
-                            <a class="navbar-brand">Turismo Spaziale</a>
+                            <a class="navbar-brand" href="homepage.html">Turismo Spaziale</a>
                             
                         </div>
                          <!-- Insieme di links, forms, and altri componenti per la navbar -->
                         <div class="collapse navbar-collapse" id="navbar-collapse">
                             <ul class="nav navbar-nav">
                                 <li>
-                                    <a href="#">About us</a>
+                                    <a href="aboutUs.html">About us</a>
                                 </li>
                                 <li>
-                                    <a href="../public_html/spaceProject.html">Projects</a>
+                                    <a href="spaceProject.html">Projects</a>
                                 </li>
                                 <li>
                                     <a href="#">News</a>
@@ -62,10 +63,10 @@
                                     <a href="#">Blog</a>
                                 </li>
                                 <li>
-                                    <a href="../public_html/gallery.html">Gallery</a>
+                                    <a href="../public_html/gallery/gallery.html">Gallery</a>
                                 </li>
                                 <li>
-                                    <a href="#">Shop</a>
+                                    <a href="shop.html">Shop</a>
                                 </li>
 
                             </ul>
@@ -128,17 +129,37 @@
               </a>
         </div>
         
-        <!-- FOOTER -->
-        <!--BISOGNA FISSARLA IN BASSO         -->
-            <div class="footer footer-inverse navbar-fixed-bottom">
-                <footer class="footer">
-                    <div class="container">
-                        <a data-toggle="modal" data-target="#FormCU"><button type="button" class="btn">Contact Us</button></a> 
-                        <a data-toggle="modal" data-target="#FormNL"><button type="button" class="btn">Newsletter</button></a> 
-                    </div>
-                </footer>
-            </div>
+<!--        FOOTER -->
         
+<footer class="footer footer-inverse navbar-fixed-bottom">
+    <div class="footer-up">
+        <div class="container" style="text-align: center">
+            <a data-toggle="modal" data-target="#FormCU"><button type="button" class="btn">Contact Us</button></a> 
+            <a data-toggle="modal" data-target="#FormNL"><button type="button" class="btn">Newsletter</button></a> 
+        </div>
+    </div>
+    <div class="footer">
+        <div class="container">
+            <div class="social" style="text-align: center">
+                       <a href="#"> <img src="../img/icona-facebook.png" width="30px" height="auto"> </a> 
+                       <a href="#"> <img src="../img/icona-twitter.png" width="30px" height="auto"> </a> 
+                       <a href="#"> <img src="../img/icona-YouTube.png" width="30px" height="auto"> </a> 
+            </div>
+            <!--/.row--> 
+        </div>
+        <!--/.container--> 
+    </div>
+    <!--/.footer-->
+    <div class="footer-bottom">
+        <div class="container" style="text-align: center">
+            <a href="#">termini d'uso&nbsp;|</a>
+            <a href="#">privacy&nbsp;|</a>
+            <a href="#">SiteIndex</a>
+        </div>
+    </div>
+    <!--/.footer-bottom--> 
+</footer>
+
         <!-- Costruzione Form Contact Us -->
         <div id="FormCU" class="modal fade" tabindex="-1" role="dialog">
               <div class="modal-dialog">
