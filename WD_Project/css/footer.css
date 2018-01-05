@@ -33,7 +33,24 @@
     background-color:black;
 }
 
-.social, .VociFooterAlte, .VociFooterBasse, .btn, .FooterBasso {
+.social, .VociFooterAlte, .VociFooterBasse, .FooterBasso {
     text-align: center;
     color: #fff;
+}
+
+.btn {
+    text-align: center;
+    color: #fff;
+    background-color: gray;
+}
+.btn-news {
+    text-align: right;
+    color: white;
+    background-color: limegreen;
+}
+.modal-dialog, .modal-content, .modal-body, form-horizontal, .form-group, .{
+    background-color: gray;
+}
+.form-control{
+    width: 100%;
 }
