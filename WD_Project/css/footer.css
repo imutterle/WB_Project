@@ -32,3 +32,8 @@
 .btn{
     background-color:black;
 }
+
+.social, .VociFooterAlte, .VociFooterBasse, .btn, .FooterBasso {
+    text-align: center;
+    color: #fff;
+}

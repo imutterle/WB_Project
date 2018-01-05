@@ -6,12 +6,14 @@
     font-weight: 500;
     letter-spacing: 1px;
     color: white !important;
+    text-align: left;
 }
 
 /*colore del brand in maiuscolo*/
 .navbar-inverse .navbar-brand{
     text-transform: uppercase;
     color: white;
+    margin-top: -10px;
 }
 .navbar .navbar-brand:hover,
 .navbar .navbar-brand:focus,
@@ -49,7 +51,12 @@ input[type=text] {
     margin-top: 10px;
 }
 
-/* quando seleziono "search" ridimensionala di 100%*/
+/* quando seleziono "search" si ridimensiona*/
 input[type=text]:focus {
-    width: 100%;
+    width:90%;
+}
+
+/*ICONE*/
+.white {
+  color: #fff;
 }
