@@ -29,7 +29,7 @@
     <body>
         <!-- NAVBAR -->
         
-        <?php include("Navbar.html"); ?>
+        <?php include("Navbar0.html"); ?>
         
         <!--VOCI VARIE MENU -->
         
@@ -58,7 +58,7 @@
         
         <!-- FOOTER -->
         
-        <?php include("footer.html"); ?>
+        <?php include("footer0.html"); ?>
         
     </body>
 </html>

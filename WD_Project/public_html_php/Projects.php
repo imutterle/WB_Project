@@ -29,10 +29,13 @@
     <body>
         <!-- NAVBAR -->
         
-        <?php include("Navbar.html"); ?>
+        <?php include("Navbar0.html"); ?>
         
         <!--ESPERIENZE -->
         <div class="container" style="margin-top: 50px">
+            
+            <div class="row"><a href="homepage.php">Home</a> / <a href="Projects.php">Projects</a></div>
+            
             <div class="spatialTourism">
                 <h1>Projects</h1>
                 <h3>Description of the section</h3>
@@ -41,7 +44,7 @@
             <!-- primo gruppo di esperienze-->
               <div class="row">
                     <div class="col-md-4">
-                        <a href="../public_html_php/SpatialTourism.php">
+                        <a href="SpatialTourism.php">
                             <img class="img-responsive" src="img">
                             <h3>Spatial tourism</h3>
                         </a>
@@ -74,7 +77,7 @@
                 
         <!--FOOTER -->
         
-        <?php include("footer.html"); ?>
+        <?php include("footer0.html"); ?>
         
     </body>
 </html>

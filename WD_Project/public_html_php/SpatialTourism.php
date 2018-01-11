@@ -30,10 +30,13 @@
         
         <!-- NAVBAR -->
         
-        <?php include("Navbar.html"); ?>
+        <?php include("Navbar0.html"); ?>
         
         <!--ESPERIENZE -->
         <div class="container" style="margin-top: 50px">
+            
+            <div class="row"><a href="homepage.php">Home</a> / <a href="Projects.php">Projects</a> / <a href="SpatialTourism.php">Spatial Tourism</a></div>
+            
             <div class="spatialTourism">
                 <h1>Spatial Tourism</h1>
                 <h3>Description of the section</h3>
@@ -80,7 +83,7 @@
         
         <!--FOOTER -->    
         
-        <?php include("footer.html"); ?>
+        <?php include("footer0.html"); ?>
     
     </body>
 </html>

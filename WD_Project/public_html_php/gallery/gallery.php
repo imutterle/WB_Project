@@ -30,7 +30,7 @@
     <body>
         <!-- NAVBAR -->
         
-        <?php include("../Navbar.html"); ?>
+        <?php include("../Navbar1.html"); ?>
         
         <!--SEZIONE MENU-->
 		<div class="container">
@@ -48,7 +48,7 @@
         
         <!--FOOTER -->
         
-        <?php include("../footer.html"); ?>
+        <?php include("../footer1.html"); ?>
         
     </body>
 </html>

@@ -4,7 +4,7 @@
         
         <!-- NAVBAR -->
         
-        <?php include("Navbar.html"); ?>
+        <?php include("Navbar0.html"); ?>
         
         <!-- CAROUSEL -->
 
@@ -57,7 +57,7 @@
         
         <!--FOOTER -->
             
-        <?php include("footer.html"); ?>
+        <?php include("footer0.html"); ?>
         
    </body>
 </html>

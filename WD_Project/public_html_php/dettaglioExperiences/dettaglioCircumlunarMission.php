@@ -32,9 +32,12 @@
     <body>
         <!-- NAVBAR -->
         
-        <?php include("../Navbar.html"); ?>
+        <?php include("../Navbar1.html"); ?>
         
         <div class="container" style="margin-top: 50px">
+            
+            <div class="row"><a href="../homepage.php">Home</a> / <a href="../Projects.php">Projects</a> / <a href="../SpatialTourism.php">Spatial Tourism</a> / <a href="dettaglioCircumlunarMission.php">Circumlunar Mission</a></div>
+            
             <div>
                 <h1>Circumlunar Mission</h1>
             </div>
@@ -62,7 +65,7 @@
 
         <!--FOOTER -->
         
-        <?php include("../footer.html"); ?>
+        <?php include("../footer1.html"); ?>
         
     </body>
 </html>
