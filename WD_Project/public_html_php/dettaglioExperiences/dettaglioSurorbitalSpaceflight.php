@@ -1,5 +1,5 @@
 <html lang="it">
-    <?php include ("../head1.html"); ?>
+     <?php include ("../head1.html"); ?>
     <body>
         <!-- NAVBAR -->
         
@@ -8,11 +8,11 @@
         <div class="container">
             
             <div class="path">
-                <a href="homepage.php">Home</a> / <a href="Projects.php">Projects</a> / <a href="SpatialTourism.php">Spatial Tourism</a> / <a href="dettaglioCircumlunarMission.php">Circumlunar Mission</a> 
+                <a href="homepage.php">Home</a> / <a href="Projects.php">Projects</a> / <a href="SpatialTourism.php">Spatial Tourism</a> / <a href="dettaglioSurorbitalSpaceflight.php">Suborbital Spaceflight</a>
             </div>
             
             <div>
-                <h1>Circumlunar Mission</h1>
+                <h1>Suborbital Spaceflight</h1>
             </div>
             <div>
                 <h2>description</h2>

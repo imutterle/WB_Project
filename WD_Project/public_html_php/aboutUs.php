@@ -1,40 +1,13 @@
-<!--PER ABOUT US FACCIAMO UN UNICO FILE HTML, DIVIDIAMO ALL'INTERNO LE 5 PARTI. SE DALLA NAVBAR SI CLICCHERA' SU UNA DI QUESTE SI ARRIVERA' SEMPRE IN QUESTA PAGINA MA PIU GIU O SU IN BASE ALL'ARGOMENTO SELEZIONATO, ATTRAVERSO DEI LINK INTERNI ALLA PAGINA (href alla classe) -->
 <html lang="it">
-      <head>
-                <!-- Viewport -->
-                <meta charset="utf-8">
-                <meta name="viewport" content="width=device-width, initial-scale=1">
-                <!-- Tag META -->
-                <meta name="description" content="Descrizione della pagina">
-                <meta name="author" content="2R2M">
-                <!-- CSS -->
-                <link href="../css/bootstrap.css" rel="stylesheet">
-                <link href="https://getbootstrap.com/docs/3.3/examples/grid/grid.css" rel="stylesheet">
-               
-                <!-- Head stuffs -->
-                <title>Progetto Web Design</title>
-                
-                
-                <!-- Custom CSS -->
-                <link href="../css/Navbar.css" rel="stylesheet">
-                <link href="../css/MediaQueries.css" rel="stylesheet">
-                <link href="../css/Carousel.css" rel="stylesheet">
-                <link href="../css/spaceProject.css" rel="stylesheet">
-                <link href="../css/footerWebPage.css" rel="stylesheet">
-                <link href="../css/footer.css" rel="stylesheet">
-                <!-- Script -->
-                <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-                <script src="../js/bootstrap.js"></script>
-    </head>
+    <?php include ("head0.html"); ?>
     <body>
         <!-- NAVBAR -->
+        <?php include("Navbar0.php"); ?>
         
-        <?php include("Navbar0.html"); ?>
-
-        <!--VOCI VARIE MENU -->
-        
-        <div class="container" style="margin-top: 50px">
-            <div class="row"><a href="homepage.php">Home</a> / <a href="aboutUs.php">About us</a></div>
+        <div class="container">
+            <div class="path">
+                <a href="homepage.php">Home</a> / <a href="aboutUs.php">About us</a>
+            </div>
             <div class="exp-details">
                 <h1>OVERVIEW</h1>
                     <p>Ho del testo di presentazione</p>
@@ -58,8 +31,6 @@
         </div>
         
         <!-- FOOTER -->
-        
-        <?php include("footer0.html"); ?>
-        
+        <?php include("footer0.php"); ?>  
     </body>
 </html>

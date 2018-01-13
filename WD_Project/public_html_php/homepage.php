@@ -1,10 +1,10 @@
 <html lang="it">
-<?php include ("head.html"); ?>
+<?php include ("head0.html"); ?>
     <body>
         
         <!-- NAVBAR -->
         
-        <?php include("Navbar0.html"); ?>
+        <?php include("Navbar0.php"); ?>
         
         <!-- CAROUSEL -->
 
@@ -57,7 +57,7 @@
         
         <!--FOOTER -->
             
-        <?php include("footer0.html"); ?>
+        <?php include("footer0.php"); ?>
         
    </body>
 </html>

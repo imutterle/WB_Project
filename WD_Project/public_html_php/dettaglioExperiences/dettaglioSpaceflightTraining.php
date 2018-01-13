@@ -8,11 +8,11 @@
         <div class="container">
             
             <div class="path">
-                <a href="homepage.php">Home</a> / <a href="Projects.php">Projects</a> / <a href="SpatialTourism.php">Spatial Tourism</a> / <a href="dettaglioCircumlunarMission.php">Circumlunar Mission</a> 
+                <a href="homepage.php">Home</a> / <a href="Projects.php">Projects</a> / <a href="SpatialTourism.php">Spatial Tourism</a> / <a href="dettaglioSpaceflightTraining.php">Spaceflight Training</a>
             </div>
             
             <div>
-                <h1>Circumlunar Mission</h1>
+                <h1>Spaceflight Training</h1>
             </div>
             <div>
                 <h2>description</h2>

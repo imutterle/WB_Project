@@ -36,10 +36,10 @@
 }
 /*colore menu dropdown*/
 .navbar-inverse .navbar-toggle{
-    background-color: white;
+    background-color: black;
 }
 .navbar-inverse .navbar-toggle .icon-bar{
-    background-color: white;
+    background-color: black;
 }
 
 
