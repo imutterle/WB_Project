@@ -12,7 +12,6 @@
     display: inline-block;
     height: 100%;
     vertical-align: middle;
-    margin-right: -4px;
     }
 
 .modal-dialog {
@@ -22,11 +21,11 @@
 }    
 
 .formUSmex{
-    height: 90px;
+    height: 100px;
 }
 
 .formUS {
-    height: 60px;
+    height: 100px;
 }
 
 .btn{

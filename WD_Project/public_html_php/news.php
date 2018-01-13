@@ -33,10 +33,10 @@
         <?php include("Navbar0.html"); ?>
         
         <!--NEWS-->
-        <div class="container">
-            <div style="margin-top: 70px">
+        <div class="container" style="margin-top: 50px">
+            <div class="row"><a href="homepage.php">Home</a> / <a href="news.php">News</a></div>
+
                 <h1>Latest news</h1>
-            </div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-6" style="float: left">
