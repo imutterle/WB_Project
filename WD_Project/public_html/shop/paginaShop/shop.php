@@ -5,7 +5,7 @@
 
     <body>
         <!-- NAVBAR -->
-        <?php include("../../Navbar0.php"); ?>
+        <?php include("../../Navbar2.php"); ?>
         
         <!--SEZIONE MENU-->
 		<div class="container">

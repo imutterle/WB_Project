@@ -1,5 +1,5 @@
 <html lang="it">
-<?php include ("../head1.html"); ?>
+    <?php include ("../head1.html"); ?>
     <body>
         <!-- NAVBAR -->
         <?php include("../Navbar1.php"); ?>
@@ -7,7 +7,7 @@
         <!--SEZIONE MENU-->
 		<div class="container">
                <div class="path">
-                   <a href="homepage.php">Home</a> / <a href="Projects.php">Projects</a> / <a href="SpatialTourism.php">Spatial Tourism</a>
+                   <a href="../homepage.php">Home</a> / <a href="gallery.php">Gallery</a>
                 </div>
                 <div class="row" style="margin-top: 100px">
                     <div class="col-md-6">

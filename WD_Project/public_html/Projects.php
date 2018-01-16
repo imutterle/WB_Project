@@ -19,33 +19,43 @@
             <!-- primo gruppo di esperienze-->
               <div class="row">
                     <div class="col-md-4">
-                        <a href="SpatialTourism.php">
-                            <img class="img-responsive" src="img">
+                        <a href="projects/SpatialTourism.php">
+                            <img class="img-responsive" src="../img/spaceProjects.jpg">
                             <h3>Spatial tourism</h3>
                         </a>
                     </div>
                     <div class="col-md-4">
-                        <img class="img-responsive" src="img">
-                        <h3>Space Satellite Launch</h3>
+                        <a href="projects/SpaceSatelliteLaunch.php">
+                            <img class="img-responsive" src="../img/spaceProjects2.jpg">
+                            <h3>Space Satellite Launch</h3>
+                        </a>
                     </div>
                     <div class="col-md-4">
-                        <img class="img-responsive" src="img">
-                         <h3>Rockets</h3>
+                        <a href="projects/Rockets.php">
+                            <img class="img-responsive" src="../img/spaceProjects3.jpg">
+                            <h3>Rockets</h3>
+                        </a>
                     </div>
               </div>
             <!--secondo gruppo di esperienze-->
              <div class="row">
                     <div class="col-md-4">
-                        <img class="img-responsive" src="img">
-                         <h3>Engine</h3>
+                        <a href="projects/Engine.php">
+                            <img class="img-responsive" src="../img/spaceProjects4.jpg">
+                            <h3>Engine</h3>
+                        </a>
                     </div>
                     <div class="col-md-4">
-                        <img class="img-responsive" src="img">
-                        <h3>Spacesuit</h3>
+                        <a href="projects/SpaceSuit.php">
+                            <img class="img-responsive" src="../img/spaceProjects5.jpg">
+                            <h3>Spacesuit</h3>
+                        </a>
                     </div>
                     <div class="col-md-4">
-                        <img class="img-responsive" src="img">
-                        <h3>Security</h3>
+                        <a href="projects/Security.php">
+                            <img class="img-responsive" src="../img/spaceProjects6.jpg">
+                            <h3>Security</h3>
+                        </a>
                     </div>
               </div>
         </div>   

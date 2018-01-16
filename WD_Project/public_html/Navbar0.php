@@ -30,7 +30,7 @@
                                     <a href="news.php">News</a>
                                 </li>
                                  <li>
-                                    <a href="#">Blog</a>
+                                    <a href="blog.php">Blog</a>
                                 </li>
                                 <li>
                                     <a href="gallery/gallery.php">Gallery</a>

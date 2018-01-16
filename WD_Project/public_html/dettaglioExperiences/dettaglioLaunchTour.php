@@ -3,12 +3,12 @@
     <body>
         <!-- NAVBAR -->
         
-        <?php include("../Navbar0.php"); ?>
+        <?php include("../Navbar1.php"); ?>
         
         <div class="container">
             
             <div class="path">
-                <a href="homepage.php">Home</a> / <a href="Projects.php">Projects</a> / <a href="SpatialTourism.php">Spatial Tourism</a> / <a href="dettaglioLaunchTour.php">Launch tour</a>
+                <a href="../homepage.php">Home</a> / <a href="../Projects.php">Projects</a> / <a href="../projects/SpatialTourism.php">Spatial Tourism</a> / <a href="dettaglioLaunchTour.php">Launch tour</a>
             </div>
             
             <div>

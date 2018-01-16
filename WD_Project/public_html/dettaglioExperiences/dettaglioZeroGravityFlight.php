@@ -2,11 +2,11 @@
    <?php include ("../head1.html"); ?>
     <body>
         <!-- NAVBAR -->
-        <?php include("../Navbar0.php"); ?>
+        <?php include("../Navbar1.php"); ?>
         
         <div class="container">
                 <div class="path">
-                    <a href="homepage.php">Home</a> / <a href="Projects.php">Projects</a> / <a href="SpatialTourism.php">Spatial Tourism</a> / <a href="dettaglioZeroGravityFlight.php">Zero gravity flight</a>
+                    <a href="../homepage.php">Home</a> / <a href="../Projects.php">Projects</a> / <a href="../projects/SpatialTourism.php">Spatial Tourism</a> / <a href="dettaglioZeroGravityFlight.php">Zero gravity flight</a>
                 </div>
 
                 <div>

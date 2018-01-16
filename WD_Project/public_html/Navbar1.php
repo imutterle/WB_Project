@@ -1,30 +1,6 @@
 <html>
     <head>
-        <!-- Viewport -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- Tag META -->
-        <meta name="description" content="Descrizione della pagina">
-        <meta name="author" content="2R2M">
-        <!-- CSS -->
-        <link href="../css/bootstrap.css" rel="stylesheet">
-        <link href="https://getbootstrap.com/docs/3.3/examples/grid/grid.css" rel="stylesheet">
-
-        <!-- Head stuffs -->
-        <title>Progetto Web Design</title>
-
-
-        <!-- Custom CSS -->
-        <link href="../css/Navbar.css" rel="stylesheet">
-        <link href="../css/MediaQueries.css" rel="stylesheet">
-        <link href="../css/Carousel.css" rel="stylesheet">
-        <link href="../css/spaceProject.css" rel="stylesheet">
-        <link href="../css/footerWebPage.css" rel="stylesheet">
-        <link href="../css/footer.css" rel="stylesheet">
-        <link href="../css/icone.css" rel="stylesheet">
-        <!-- Script -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <script src="../js/bootstrap.js"></script>
+        <?php include ("head1.html"); ?>
     </head>
     <body>
         <div class="container">
@@ -40,31 +16,30 @@
                             </button>
                             
                             <!-- Brand -->
-                            <a class="navbar-brand" href="homepage.php">Spatial<br>Tourism</a>
+                            <a class="navbar-brand" href="../homepage.php">Spatial<br>Tourism</a>
                             
                         </div>
                          <!-- Insieme di links, forms, and altri componenti per la navbar -->
                         <div class="collapse navbar-collapse" id="navbar-collapse">
                             <ul class="nav navbar-nav">
                                 <li>
-                                    <a href="aboutUs.php">About us</a>
+                                    <a href="../aboutUs.php">About us</a>
                                 </li>
                                 <li>
-                                    <a href="Projects.php">Projects</a>
+                                    <a href="../Projects.php">Projects</a>
                                 </li>
                                 <li>
-                                    <a href="news.php">News</a>
+                                    <a href="../news.php">News</a>
                                 </li>
                                  <li>
-                                    <a href="#">Blog</a>
+                                    <a href="../blog.php">Blog</a>
                                 </li>
                                 <li>
-                                    <a href="../public_html_php/gallery/gallery.php">Gallery</a>
+                                    <a href="../gallery/gallery.php">Gallery</a>
                                 </li>
                                 <li>
-                                    <a href="shop/shop.php">Shop</a>
+                                    <a href="../shop/shop.php">Shop</a>
                                 </li>
-
                             </ul>
                             <ul class="nav navbar-nav navbar-center">
                                 <li><a href="#"><span class="glyphicon glyphicon-user"></span>Accedi</a></li>
