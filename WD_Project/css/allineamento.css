@@ -1,0 +1,9 @@
+.sinistra {
+float: left;
+}.destra {
+float: right;
+text-align: right;
+}
+.sconto{
+    text-align: right;
+}
