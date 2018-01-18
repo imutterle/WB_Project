@@ -16,7 +16,7 @@
                             </button>
                             
                             <!-- Brand -->
-                            <a class="navbar-brand" href="homepage.php">Spatial<br>Tourism</a>
+                            <a class="navbar-brand" href="../../homepage.php">Spatial<br>Tourism</a>
                             
                         </div>
                          <!-- Insieme di links, forms, and altri componenti per la navbar -->
