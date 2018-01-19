@@ -7,7 +7,7 @@
         
         <div class="container">
             <div class="path">
-                    <a href="../../homepage.php">Home</a> / <a href="../gallery/gallery.php">Gallery</a> / <a href="../gallery/videogallery.php">Videogallery</a>
+                    <a href="../homepage.php">Home</a> / <a href="gallery.php">Gallery</a> / <a href="videogallery.php">Videogallery</a>
             </div>
             <div class="col-md-8 col-md-offset-2">
                 <video class="img-responsive" controls autoplay>

@@ -7,7 +7,7 @@
         
         <div class="container">
             <div class="path">
-                    <a href="../../homepage.php">Home</a> / <a href="../gallery/gallery.php">Gallery</a> / <a href="../gallery/photogallery.php">Photogallery</a>
+                    <a href="../homepage.php">Home</a> / <a href="gallery.php">Gallery</a> / <a href="photogallery.php">Photogallery</a>
             </div>
             <div class="col-md-8 col-md-offset-2">
                 <img class="img-responsive" src="../../img/1.jpg">
