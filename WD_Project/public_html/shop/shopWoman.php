@@ -28,7 +28,7 @@
             <div class="col-md-9">
                 <div class="row">
                     <div class="col-md-3">
-                        <div class="item">
+                        <div class="object">
                             <div class="row">
                                 <a href="itemMan/item1.php"><img class="img-responsive" src="../../img/1.jpg" alt=""></a>
                             </div>
@@ -43,7 +43,7 @@
                     </div>
 
                     <div class="col-md-3">
-                        <div class="item">
+                        <div class="object">
                             <div class="row">
                                 <a href="itemMan/item2.php"><img class="img-responsive" src="../../img/2.jpg" alt=""></a>
                             </div>
@@ -58,7 +58,7 @@
                     </div>
 
                     <div class="col-md-3">
-                        <div class="item">
+                        <div class="object">
                             <div class="row">
                                 <a href="itemMan/item3.php"><img class="img-responsive" src="../../img/3.jpg" alt=""></a>
                             </div>
@@ -73,7 +73,7 @@
                     </div>
 
                     <div class="col-md-3">
-                        <div class="item">
+                        <div class="object">
                             <div class="row">
                                 <a href="itemMan/item3.php"><img class="img-responsive" src="../../img/3.jpg" alt=""></a>
                             </div>
@@ -89,7 +89,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-3">
-                        <div class="item">
+                        <div class="object">
                             <div class="row">
                                 <a href="itemMan/item1.php"><img class="img-responsive" src="../../img/1.jpg" alt=""></a>
                             </div>
@@ -104,7 +104,7 @@
                     </div>
 
                     <div class="col-md-3">
-                        <div class="item">
+                        <div class="object">
                             <div class="row">
                                 <a href="itemMan/item2.php"><img class="img-responsive" src="../../img/2.jpg" alt=""></a>
                             </div>
@@ -119,7 +119,7 @@
                     </div>
 
                     <div class="col-md-3">
-                        <div class="item">
+                        <div class="object">
                             <div class="row">
                                 <a href="itemMan/item3.php"><img class="img-responsive" src="../../img/3.jpg" alt=""></a>
                             </div>
@@ -134,7 +134,7 @@
                     </div>
 
                     <div class="col-md-3">
-                        <div class="item">
+                        <div class="object">
                             <div class="row">
                                 <a href="itemMan/item3.php"><img class="img-responsive" src="../../img/3.jpg" alt=""></a>
                             </div>
@@ -150,7 +150,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-3">
-                        <div class="item">
+                        <div class="object">
                             <div class="row">
                                 <a href="itemMan/item1.php"><img class="img-responsive" src="../../img/1.jpg" alt=""></a>
                             </div>
@@ -165,7 +165,7 @@
                     </div>
 
                     <div class="col-md-3">
-                        <div class="item">
+                        <div class="object">
                             <div class="row">
                                 <a href="itemMan/item2.php"><img class="img-responsive" src="../../img/2.jpg" alt=""></a>
                             </div>
@@ -180,7 +180,7 @@
                     </div>
 
                     <div class="col-md-3">
-                        <div class="item">
+                        <div class="object">
                             <div class="row">
                                 <a href="itemMan/item3.php"><img class="img-responsive" src="../../img/3.jpg" alt=""></a>
                             </div>
@@ -195,7 +195,7 @@
                     </div>
 
                     <div class="col-md-3">
-                        <div class="item">
+                        <div class="object">
                             <div class="row">
                                 <a href="itemMan/item3.php"><img class="img-responsive" src="../../img/3.jpg" alt=""></a>
                             </div>
