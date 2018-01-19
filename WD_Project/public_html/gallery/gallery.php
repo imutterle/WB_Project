@@ -12,15 +12,15 @@
                 <div class="row" style="margin-top: 100px">
                     <div class="col-md-6">
                         <img class="img-responsive" src="../../img/gallery1.jpg">
-                        <a href="photogallery.php"> <h1>Photo Gallery</h1> </a>
+                        <h1>Photo Gallery</h1>
                     </div>
                     <div class="col-md-6">
                         <img class="img-responsive" src="../../img/gallery2.jpg">
-                        <a href="videogallery.php"> <h1>Video Gallery</h1> </a>
+                        <h1>Video Gallery</h1>
                     </div>
                 </div>
 		</div>
-        <div class="vuoto"></div>
+        
         <!--FOOTER -->
         <?php include("../footer1.php"); ?>
     </body>

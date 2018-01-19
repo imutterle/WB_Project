@@ -112,7 +112,6 @@
                 </div>
             </div>
         </div>
-        <div class="vuoto"></div>
         <!--FOOTER -->
         <?php include("../../footer2.php"); ?>
     </body>

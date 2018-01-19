@@ -1,6 +1,7 @@
 <html>
     <?php include ("head0.html"); ?>
     <body>
+        <div class="FP"></div>
         <footer class="footer footer-inverse navbar-fixed-bottom">
 
             <div class="footer-up">

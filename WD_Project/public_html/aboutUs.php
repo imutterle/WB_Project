@@ -29,7 +29,7 @@
                     <p>scrivere qualcosa delle FAQ e sicurezza (che vuole pitta)</p>
             </div>
         </div>
-        <div class="vuoto"></div>
+        <div class="divEdett"></div>
         <!-- FOOTER -->
         <?php include("footer0.php"); ?>  
     </body>
