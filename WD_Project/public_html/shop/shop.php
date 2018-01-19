@@ -38,7 +38,7 @@
                     <a ><button type="button" class="btn">Customer Service</button></a> 
                 </div>
                 <div class="col-md-6">
-                    <a ><button type="button" class="btn">Cart</button></a> 
+                    <a ><button type="button" class="btn" onclick="location.href='cart/cartDesktop.php'">Cart</button></a> 
                 </div>
             </div>
             
