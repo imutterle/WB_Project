@@ -20,13 +20,11 @@
     vertical-align: middle;
 }    
 
-.formUSmex{
-    height: 100px;
+/*
+.modal-body {
+    background-color: darkgray;  
 }
-
-.formUS {
-    height: 100px;
-}
+*/
 
 .social, .VociFooterAlte, .VociFooterBasse, .FooterBasso {
     text-align: center;

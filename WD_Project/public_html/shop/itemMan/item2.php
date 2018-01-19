@@ -23,7 +23,7 @@
                             <a ><button type="button" class="btn">Add to Cart</button></a> 
                         </div>
                         <div class="col-md-6">
-                            <a ><button type="button" class="btn">Buy Now</button></a> 
+                            <button type="button" class="btn" onclick="location.href='../cart/cartDesktop.php'"> Buy Now </button>
                         </div>
                     </div>
                 </div>

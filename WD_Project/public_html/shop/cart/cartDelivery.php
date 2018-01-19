@@ -49,10 +49,10 @@
                     <div class="col-md-6 col-md-offset-4">
                         <button type="button" class="btn" onclick="location.href='cartpayment.php'">Continue with payment</button>
                     </div>
-                    <div class="btn-group" style="margin-bottom:70px">
-                        <button type="button" class="btn btn-primary">Delivery</button>
-                        <button type="button" class="btn">Payment</button>
-                        <button type="button" class="btn">Purchase</button>
+                    <div class="col-md-offset-4 btn-group">
+                        <button type="button" class="btn-success">Delivery</button>
+                        <button type="button" class="btn-secondary">Payment</button>
+                        <button type="button" class="btn-secondary">Purchase</button>
                     </div>
                 </div>
             </div>

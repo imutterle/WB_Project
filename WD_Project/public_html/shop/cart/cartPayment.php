@@ -35,13 +35,13 @@
                       <input class="form-control">
                 </div>
                 <div class="row">
-                    <div class="col-md-6 col-md-offset-4">
+                    <div class="col-md-6 col-md-offset-5">
                         <button type="button" class="btn" onclick="location.href='cartPurchase.php'">Proceed</button>
                     </div>
-                    <div class="col-md-6 col-md-offset-3" style="margin-bottom:70px">
-                        <button type="button" class="btn">Delivery</button>
-                        <button type="button" class="green">Payment</button>
-                        <button type="button" class="btn">Purchase</button>
+                    <div class="col-md-6 col-md-offset-4">
+                        <button type="button" class="btn-secondary">Delivery</button>
+                        <button type="button" class="btn-success">Payment</button>
+                        <button type="button" class="btn-secondary">Purchase</button>
                     </div>
                 </div>
             </div>
