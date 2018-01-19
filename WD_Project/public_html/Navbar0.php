@@ -55,14 +55,13 @@
         </div>
         
         <!-- Costruzione Accedi -->
-        <!--manca colore grigio, ridimensionare lungo tutta la linea e sistemare ordine -->
         <div id="FormNav" class="modal fade" tabindex="-1" role="dialog">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-body">
                         <form class="form-horizontal" action=" " method="post"  id="contact_form">
                             <fieldset>
-                                <legend>LOG-IN
+                                <legend class="centro">LOG-IN
                                     <button type="button" class="close" data-dismiss="modal">&times;</button>
                                         <div class="social">
                                             <a href="#"> <img src="../img/icona-facebook.png" width="30px" height="auto"> <button type="button" class="btn" style="background-color: skyblue">Login with facebook</button></a> 

@@ -34,7 +34,7 @@
                     </div>
                     <div class="">
                         <h4 class="">
-                            <a href="itemMan/item2.php">Item One</a>
+                            <a href="itemMan/item2.php">Item Two</a>
                         </h4>
                         <h5>$24.99</h5>
                         <div class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</div>
@@ -49,7 +49,7 @@
                     </div>
                     <div class="">
                         <h4 class="">
-                            <a href="itemMan/item3.php">Item One</a>
+                            <a href="itemMan/item3.php">Item Three</a>
                         </h4>
                         <h5>$99.99</h5>
                         <div class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</div>
