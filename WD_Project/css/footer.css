@@ -41,9 +41,7 @@
     color: white;
     background-color: limegreen;
 }
-.modal-dialog, .modal-content, .modal-body, form-horizontal, .form-group, .{
-    background-color: gray;
-}
+
 .form-control{
     width: 100%;
 }
