@@ -14,25 +14,30 @@
             <div>
                 <h1>Spacewalk</h1>
             </div>
-            <div>
-                <h2>description</h2>
-                <a href="#">img</a> <p>testo</p>
-            </div>
-            <div>
-                <h2>Mission Details</h2>
-                    <p>Testo</p>
-            </div>
-            <div class="exp-details">
-                <h1>Prices</h1>
-                    <p>testo</p>
-            </div>
-            <div class="exp-details">
-                <h1>Contact Directly: <a href="#">url</a></h1>
-            </div>
-            <div class="exp-details">
-                <h1>Gallery</h1>
-                <p>collegamento a <a href="#"> gallery </a></p>
-            </div>
+            <div class="col-md-12">
+                    <h2>Mission Details</h2>
+                        <p>Testo</p>
+                </div>
+                <div class="exp-details col-md-12">
+                    <h3>Prices: &#36 total</h3>
+                </div>
+                <div class="exp-details col-md-12">
+                    <h3>Contact Directly: <a href="#">example@example.com</a></h3>
+                </div>
+                <div class="exp-details col-md-12">
+                    <h3><a href="../gallery/gallery.php">Gallery</a></h3>
+                </div>
+                <div class="container">
+                    <div class="col-md-3">
+                        <img class="img-responsive" src="../../img/1.jpg">
+                    </div>
+                     <div class="col-md-3">
+                        <img class="img-responsive" src="../../img/1.jpg">
+                    </div>
+                     <div class="col-md-3">
+                        <img class="img-responsive" src="../../img/1.jpg">
+                    </div>
+                </div>
         </div>
         <div class="divEdett"></div>
 
