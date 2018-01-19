@@ -12,11 +12,11 @@
                 <div class="row" style="margin-top: 100px">
                     <div class="col-md-6">
                         <img class="img-responsive" src="../../img/gallery1.jpg">
-                        <h1>Photo Gallery</h1>
+                        <a href="photogallery.php"> <h1>Photo Gallery</h1> </a>
                     </div>
                     <div class="col-md-6">
                         <img class="img-responsive" src="../../img/gallery2.jpg">
-                        <h1>Video Gallery</h1>
+                        <a href="videogallery.php"> <h1>Video Gallery</h1> </a>
                     </div>
                 </div>
 		</div>

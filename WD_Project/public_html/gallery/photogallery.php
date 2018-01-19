@@ -31,7 +31,9 @@
                 </div>
             </div>
         </div>
-        <div class="vuoto"></div>
+        
+        <div class="vuoto">&nbsp;</div>
+        
         <!--FOOTER -->    
         <?php include("../footer1.php"); ?>
         
