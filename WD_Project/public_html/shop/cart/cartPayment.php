@@ -34,13 +34,17 @@
                       <label>CCV</label>
                       <input class="form-control">
                 </div>
-                <div class="col-md-2 col-md-offset-5">
-                    <button type="button" class="btn">Proceed</button>
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-4">
+                        <button type="button" class="btn" onclick="location.href='cartPurchase.php'">Proceed</button>
+                    </div>
+                    <div class="col-md-6 col-md-offset-3" style="margin-bottom:70px">
+                        <button type="button" class="btn">Delivery</button>
+                        <button type="button" class="green">Payment</button>
+                        <button type="button" class="btn">Purchase</button>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="container">
-        <h1>simboli per vedere transazione</h1>
         </div>
         <!--FOOTER -->
         <?php include("../../footer2.php"); ?>

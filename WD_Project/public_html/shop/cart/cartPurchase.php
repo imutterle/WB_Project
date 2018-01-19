@@ -32,12 +32,38 @@
                 <h2>Order Total</h2>
                 <h4>soldi</h4>
             </div>
-            <button type="button" class="btn">Purchase</button>
-            <h1> quando si schiaccia aprire popup di avvenuto pagamento</h1>
+            <div class="row">
+                <div class="col-md-6 col-md-offset-4">
+                    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#formPurchase">Purchase</button>
+                </div>
+                <div class="col-md-6 col-md-offset-3" style="margin-bottom:70px">
+                    <button type="button" class="btn">Delivery</button>
+                    <button type="button" class="btn">Payment</button>
+                    <button type="button" class="green">Purchase</button>
+                </div>
+            </div>
         </div>
-        <div class="container">
-            <h1>simboli transazioni</h1>
+        
+        
+        <!-- costruzione popup avvenuto pagamento -->
+        <div id="formPurchase" class="modal fade" role="dialog">
+          <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+              </div>
+              <div class="modal-body">
+                <h1>icona e farlo verde</h1>
+                <p>Congrats! Your order has been accepted!</p>
+              </div>
+              <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal" onclick="location.href='../shop.php'">return to store</button>
+              </div>
+            </div>
+          </div>
         </div>
+        
          <!--FOOTER -->
         <?php include("../../footer2.php"); ?>
     </body>

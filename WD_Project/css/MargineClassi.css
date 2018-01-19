@@ -1,3 +1,7 @@
 .path {
     margin-top: 50px;
 }
+
+.container {
+    margin-bottom: 70px; /*altrimenti il contenuto viene coperto dal footer*/
+}

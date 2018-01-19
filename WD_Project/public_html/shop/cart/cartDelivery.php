@@ -13,7 +13,7 @@
                     <a href="../../homepage.php">Home</a> / <a href="../shop.php">Shop</a> / <a href="../cart/cartDesktop.php">Cart</a> / <a href="cartDelivery.php"> Delivery </a>
             </div>
             
-            <div class="col-md-12">
+            <div class="col-md-8 col-md-offset-2">
                 <fieldset>
                     <legend>Delivery Address</legend> 
                 </fieldset>
@@ -45,14 +45,19 @@
                       <label>Zipcode</label>
                       <input class="form-control">
                 </div>
-                <div class="col-md-2 col-md-offset-5">
-                    <button type="button" class="btn">Continue with payment</button>
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-4">
+                        <button type="button" class="btn" onclick="location.href='cartpayment.php'">Continue with payment</button>
+                    </div>
+                    <div class="col-md-6 col-md-offset-3" style="margin-bottom:70px">
+                        <button type="button" class="green">Delivery</button>
+                        <button type="button" class="btn">Payment</button>
+                        <button type="button" class="btn">Purchase</button>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="container">
-        <h1>simboli per vedere transazione</h1>
-        </div>
+        
         <!--FOOTER -->
         <?php include("../../footer2.php"); ?>
     </body>

@@ -34,6 +34,11 @@
                     </div>
                     <div class="size">
                         <h5>size </h5>
+                        <button class="btn btn-default" type="submit">XS</button>
+                        <button class="btn btn-default" type="submit">SM</button>
+                        <button class="btn btn-default" type="button">M</button>
+                        <button class="btn btn-default" type="submit">L</button>
+                        <button class="btn btn-default" type="submit">XL</button>
                     </div>
                     <div class="quantity">
                         <h5>
@@ -75,6 +80,11 @@
                         </div>
                         <div class="size">
                             <h5>size </h5>
+                            <button class="btn btn-default" type="submit">XS</button>
+                            <button class="btn btn-default" type="submit">SM</button>
+                            <button class="btn btn-default" type="button">M</button>
+                            <button class="btn btn-default" type="submit">L</button>
+                            <button class="btn btn-default" type="submit">XL</button>
                         </div>
                         <div class="quantity">
                             <h5>
@@ -96,14 +106,11 @@
                 </div> 
             
             <div class="row">
-                <div class="col-md-6 col-md-offset-5">
-                    <h3>Order total &#36 26,70</h1> 
-                    <button type="button" class="btn">place order</button>
+                <div class="col-md-6 col-md-offset-5" style="margin-bottom:70px">
+                    <h3>Order total &#36 26,70</h3> 
+                    <button type="button" class="btn" onclick="location.href='cartDelivery.php'">place order</button>
                 </div>
             </div>
-        </div>
-        <div class="container">
-        <h1>con questa classe container riesco a vedere tutta la pagina altrimenti no </h1>
         </div>
         <!--FOOTER -->
         <?php include("../../footer2.php"); ?>
