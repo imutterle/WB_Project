@@ -12,7 +12,7 @@
                 <a href="../homepage.php">Home</a> / <a href="shop.php">Shop</a> / <a href="shopWoman.php">Woman products</a>
             </div>        
         </div>
-        <div class="vuoto"></div>
+        
         <!--FOOTER -->
             
         <?php include("../footer1.php"); ?>

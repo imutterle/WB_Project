@@ -2,6 +2,10 @@
     margin-top: 50px;
 }
 
-.vuoto {
-   margin-bottom: 70px; /*altrimenti il contenuto viene coperto dal footer*/
+.FP {
+    margin-bottom: 70px;
+}
+
+.divEdett {
+    margin-bottom: 100px; 
 }
