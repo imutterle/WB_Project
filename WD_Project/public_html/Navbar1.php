@@ -1,7 +1,5 @@
 <html>
-    <head>
-        <?php include ("head1.html"); ?>
-    </head>
+    <?php include ("head0.html"); ?>
     <body>
         <div class="container">
             <!-- Navigation -->
@@ -25,8 +23,17 @@
                                 <li>
                                     <a href="../aboutUs.php">About us</a>
                                 </li>
-                                <li>
-                                    <a href="../Projects.php">Projects</a>
+                                <li class="dropdown">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="../Projects.php">Projects</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="../projects/SpatialTourism.php">Spatial Tourism</a></li>
+                                        <li><a href="../projects/SpaceSatelliteLaunch.php">Satellite Launch</a></li>
+                                        <li><a href="../projects/Rockets.php">Rockets</a></li>
+                                        <li><a href="../projects/Engine.php">Engine</a></li>
+                                        <li><a href="../projects/SpaceSuit.php">Spacesuit</a></li>
+                                        <li><a href="../projects/Security.php">Security</a></li>
+                                        
+                                    </ul>                                
                                 </li>
                                 <li>
                                     <a href="../news.php">News</a>
@@ -40,6 +47,7 @@
                                 <li>
                                     <a href="../shop/shop.php">Shop</a>
                                 </li>
+
                             </ul>
                             <ul class="nav navbar-nav navbar-center">
                                 <li>
@@ -56,72 +64,64 @@
         </div>
         
         <!-- Costruzione Accedi -->
-        <!--manca colore grigio, ridimensionare lungo tutta la linea e sistemare ordine -->
         <div id="FormNav" class="modal fade" tabindex="-1" role="dialog">
             <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-body">
-                        <form class="form-horizontal" action=" " method="post"  id="contact_form">
-                            <fieldset>
-                                <legend>LOG-IN
-                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                        <div class="social">
-                                            <a href="#"> <img src="../../img/icona-facebook.png" width="30px" height="auto"> <button type="button" class="btn" style="background-color: skyblue">Login with facebook</button></a> 
-                                        </div>
-                                </legend>
-                                    <div class="form-group">
-                                        <div class="col-md-12 nameUS">
-                                            <div class="col-md-6 formUS">
-                                                <input class="form-control" name="username" placeholder="Username" type="text">
-                                            </div>
-                                            <div class="col-md-6 passUS">
-                                                <input class="form-control" name="password" placeholder="Password" type="text">
-                                            </div>
-                                            <div class="col-md-12 submitUS" style="text-align: right"> 
-                                                <div class="col-md-12 formUS">
-                                                    <button type="button" class="btn">Submit</button>
+                    <div class="modal-content">
+                            <div class="modal-body">
+                                <form class="form-horizontal" action=" " method="post"  id="contact_form">
+                                    <fieldset>
+                                        <legend class="centro">LOG-IN
+                                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                <div class="social">
+                                                    <a href="#"> <img src="../../img/icona-facebook.png" width="30px" height="auto"> <button type="button" class="btn" style="background-color: skyblue">Login with facebook</button></a> 
                                                 </div>
-                                            </div>
-                                        </div>
-                                        <!-- <hr style="border-bottom-color: black">-->
-                                        <h3>Register now</h3>   
-                                        <div class="col-md-12 emailUS">
-                                                <div class="col-md-12 formUS">
-                                                    <input class="form-control" name="NomeCognome" placeholder="First and last name" type="text">
+                                        </legend>
+                                    </fieldset>
+                                    <fieldset>
+                                        <form>
+                                              <div class="form-row">
+                                                <div class="form-group col-md-6">
+                                                  <input type="email" class="form-control" placeholder="Username">
                                                 </div>
-                                        </div>
-                                        <div class="col-md-12 emailUS">
-                                                <div class="col-md-12 formUS">
-                                                    <input class="form-control" name="mail" placeholder="E-mail" type="text">
+                                                <div class="form-group col-md-6">
+                                                  <input type="password" class="form-control" placeholder="Password">
                                                 </div>
-                                        </div>
-                                        <div class="col-md-12 nameUS">
-                                            <div class="col-md-6 formUS">
-                                                <input class="form-control" name="username" placeholder="Username" type="text">
-                                            </div>
-                                            <div class="col-md-6 passUS">
-                                                <input class="form-control" name="password" placeholder="Password" type="text">
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12 listUS">
-                                            <div class="col-md-12 formUS">
-                                                <select name="country" class="form-control selectpicker">
-                                                      <option>Select country</option>
-                                                      <option>Italy</option>
-                                                      <option>France</option>
-                                                      <option>UK</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12 submitUS">
-                                                <div class="col-md-12 formUS"><button type="button" class="btn">Submit</button></div>
-                                        </div>
-                                    </div>
-                                </fieldset>
-                            </form>
+                                              </div>
+                                              <button type="button" class="btn" style="text-align:right"> Submit</button>
+                                        </form>
+                                    </fieldset>
+                                    <fieldset>
+                                        <h3 class="centro">Register now</h3>
+                                        <form>
+                                              <div class="form-group">
+                                                    <input type="text" class="form-control" placeholder="First and last name">
+                                              </div>
+                                              <div class="form-group">
+                                                    <input type="text" class="form-control" placeholder="E-mail">
+                                              </div>
+                                              <div class="form-row">
+                                                    <div class="form-group col-md-6">
+                                                      <input type="email" class="form-control" placeholder="Username">
+                                                    </div>
+                                                    <div class="form-group col-md-6">
+                                                      <input type="password" class="form-control" placeholder="Password">
+                                                    </div>
+                                              </div>
+                                              <div class="form-group col-md-12">
+                                                    <select name="country" class="form-control selectpicker">
+                                                          <option>Select country</option>
+                                                          <option>Italy</option>
+                                                          <option>France</option>
+                                                          <option>UK</option>
+                                                    </select>
+                                              </div>
+                                              <button type="button" class="btn">Submit</button>
+                                        </form>
+                                    </fieldset>
+                                </form>
                         </div>
-                    </div>
                 </div>
+            </div>
         </div>
     </body>
 </html>

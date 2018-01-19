@@ -30,3 +30,21 @@
     border-bottom: 2px solid black;
     border-color: black;
 }
+
+.list-group-item {
+    border: 1px solid rgba(0,0,0,.125);
+}
+
+.list-group {
+    max-width: 85%;
+}
+
+.object{
+    max-width: 95%;
+    height: auto;
+}
+
+.category {    
+    max-width: 100%;
+    position: fixed;
+}
