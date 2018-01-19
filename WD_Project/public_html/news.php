@@ -23,7 +23,7 @@
                 </div>
             </div>
         </div>
-        
+        <div class="vuoto"></div>
         <!--FOOTER -->
         <?php include("footer0.php"); ?> 
    </body>

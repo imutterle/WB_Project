@@ -20,7 +20,7 @@
                     </div>
                 </div>
 		</div>
-        
+        <div class="vuoto"></div>
         <!--FOOTER -->
         <?php include("../footer1.php"); ?>
     </body>

@@ -32,7 +32,7 @@
                     <p>collegamento a <a href="#"> gallery </a></p>
                 </div>
             </div>
-        
+        <div class="vuoto"></div>
 
         <!--FOOTER -->
         <?php include("../footer1.php"); ?>    
