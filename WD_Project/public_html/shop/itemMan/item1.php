@@ -38,22 +38,35 @@
                         <h3>&#36 15,99</h3>
                     </div>
                     <div class="colors">
-                        <h5>colors form</h5>
+                        <h4>colors</h4>
+                        <button class="btn btn-default" type="submit" style="background-color:red"></button>
+                        <button class="btn btn-default" type="submit" style="background-color:orange"></button>
+                        <button class="btn btn-default" type="button" style="background-color:green"></button>
+                        <button class="btn btn-default" type="submit" style="background-color:blue"></button>
+                        <button class="btn btn-default" type="submit" style="background-color:white"></button>
                     </div>
                     <div class="size">
-                        <h5>size form</h5>
+                        <h4>size</h4>
+                        <button class="btn btn-default" type="submit">XS</button>
+                        <button class="btn btn-default" type="submit">SM</button>
+                        <button class="btn btn-default" type="button">M</button>
+                        <button class="btn btn-default" type="submit">L</button>
+                        <button class="btn btn-default" type="submit">XL</button>
                     </div>
                     <div class="seller">
                         <h3>Seller</h3>
-                        <h5>Description of the section</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget urna quis massa sodales finibus non ac lacus. Praesent metus mauris, laoreet quis tristique tristique, fringilla ut quam.</p>
+                    </div>
+                    <div class="warranty">
+                        <h3>Warranty</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget urna quis massa sodales finibus non ac lacus. Praesent metus mauris, laoreet quis tristique tristique, fringilla ut quam.</p>
                     </div>
                     <div class="productDescription">
                         <h3>Product Description</h3>
-                        <h5>Description of the section</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget urna quis massa sodales finibus non ac lacus. Praesent metus mauris, laoreet quis tristique tristique, fringilla ut quam.</p>
                     </div>
                     <div class="tags">
-                        <h3>Tags</h3>
-                        <h5>Description of the section</h5>
+                        <p><b>tags:</b> tag1,tag2,tag3,...</p>
                     </div>
                 </div>
             </div>            
