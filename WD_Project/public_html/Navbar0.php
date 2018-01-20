@@ -12,10 +12,10 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            
+
                             <!-- Brand -->
                             <a class="navbar-brand" href="homepage.php">Spatial<br>Tourism</a>
-                            
+
                         </div>
                          <!-- Insieme di links, forms, and altri componenti per la navbar -->
                         <div class="collapse navbar-collapse" id="navbar-collapse">
@@ -32,7 +32,7 @@
                                         <li><a href="projects/Engine.php">Engine</a></li>
                                         <li><a href="projects/SpaceSuit.php">Spacesuit</a></li>
                                         <li><a href="projects/Security.php">Security</a></li>
-                                    </ul>                         
+                                    </ul>
                                 </li>
                                 <li>
                                     <a href="news.php">News</a>
@@ -61,11 +61,11 @@
                                     </fieldset>
                                 </form>
                             </ul>
-                        </div>  
+                        </div>
                      </div>
                 </nav>
         </div>
-        
+
         <!-- Costruzione Accedi -->
         <div id="FormNav" class="modal fade" tabindex="-1" role="dialog">
             <div class="modal-dialog">
@@ -76,7 +76,7 @@
                                         <legend class="centro">LOG-IN
                                             <button type="button" class="close" data-dismiss="modal">&times;</button>
                                                 <div class="social">
-                                                    <a href="#"> <img src="../img/icona-facebook.png" width="30px" height="auto"> <button type="button" class="btn" style="background-color: skyblue">Login with facebook</button></a> 
+                                                    <a href="#"> <img src="../img/icona-facebook.png" width="30px" height="auto"> <button type="button" class="btn" style="background-color: skyblue">Login with facebook</button></a>
                                                 </div>
                                         </legend>
                                     </fieldset>

@@ -1,5 +1,7 @@
 /*VOCI MENU*/
-
+.navbar-toggle {
+  float: left;
+}
 /*tutte le voci del menu in maiuscolo*/
 .navbar li a {
     text-transform: uppercase;
@@ -21,7 +23,7 @@
 .navbar .navbar-brand.active {
     color:white;
     background-color: none;
-}   
+}
 
 /*DROPDOWN*/
 
