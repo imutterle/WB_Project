@@ -33,8 +33,8 @@
                         <p><b>tags:</b> tag1,tag2,tag3,...</p>
                     </div>
                 </div>
-        </div>
-        
+        </div>        
+        <div class="divEdett"></div>
         <!--FOOTER -->
         <?php include("footer0.php"); ?> 
    </body>

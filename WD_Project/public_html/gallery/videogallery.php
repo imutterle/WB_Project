@@ -56,6 +56,8 @@
                 </div>
             </div>
         </div>
+        
+        <div class="divEdett"></div>
         <!--FOOTER -->    
         <?php include("../footer1.php"); ?>
         
