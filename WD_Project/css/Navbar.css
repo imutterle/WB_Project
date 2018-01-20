@@ -59,4 +59,6 @@ input[type=text]:focus {
     background: black;
 }
 
-
+.dropdown-menu>li>a:hover{
+    color: black !important;
+}
