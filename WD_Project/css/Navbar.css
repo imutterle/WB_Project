@@ -48,7 +48,7 @@ input[type=text] {
 /* quando seleziono "search" si ridimensiona*/
 input[type=text]:focus {
     border-radius: 8px;
-    width:90%;
+    width:80%;
 }
 
 /*ICONE*/

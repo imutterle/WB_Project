@@ -9,25 +9,91 @@
                 <a href="../homepage.php">Home</a> / <a href="../search.php">Search</a>
             </div>
             
-            <div class="exp-details col-md-8">
-                <h3>OVERVIEW</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.</p>
+            <div class="searchInbox col-md-12">
+                <div class="col-md-4">
+                    <div class="row">
+                        <form class="search" action=”” method=”get”>
+                            <fieldset class="searchFieldset">
+                                <button class="searchButton" alt="Cerca" title="Search.."><span class="glyphicon glyphicon-search black"></span></button>
+                                <input type="text" name="search" placeholder="Search..">
+                            </fieldset>
+                        </form>
+                    </div>
+                    <div class="row">
+                        <button class="btn">Search as a tag</button>
+                        <button class="btn">Search as a keyword</button>
+                    </div>
+                </div>                
+                <div class="col-md-4">
+                    <div class="row">
+                        <h5>Select a category</h5>
+                    </div>
+                    <div class="row">
+                        <select class="form-control searchInfo">
+                              <option>Man Products</option>
+                              <option>Woman Products</option>
+                              <option>Kid Products</option>
+                        </select>
+                    </div>
+                </div>                
+                <div class="col-md-4">
+                    <div class="row">
+                        <h5>Sort by</h5>
+                    </div>
+                    <div class="row">
+                        <select class="form-control searchInfo">
+                              <option>Most recent</option>
+                              <option>Last recent</option>
+                        </select>
+                    </div>
+                </div>
             </div>
-            <div class="exp-details col-md-8">
-                <h3>TEAM</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.</p>
+            <div class="exp-details col-md-12">
+                <h3>Search Results:</h3>
             </div>
+            
             <div class="exp-details col-md-8">
-                <h3>CARRIERS</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.</p>
+                <h3>Title of section</h3>
+                <h4>Category</h4>
+                <h5>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.
+                    </p>
+                </h5>                
+                <h4>Tags:#Tag1,#Tag2,#Tag3</h4>
             </div>
+            
             <div class="exp-details col-md-8">
-                <h3>PARTNERSHIP</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.</p>
+                <h3>Title of section</h3>
+                <h4>Category</h4>
+                <h5>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.
+                    </p>
+                </h5>                
+                <h4>Tags:#Tag1,#Tag2,#Tag3</h4>
             </div>
+            
             <div class="exp-details col-md-8">
-                <h3>FAQ</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.</p>
+                <h3>Title of section</h3>
+                <h4>Category</h4>
+                <h5>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.
+                    </p>
+                </h5>                
+                <h4>Tags:#Tag1,#Tag2,#Tag3</h4>
+            </div>
+            
+            <div class="exp-details col-md-8">
+                <h3>Title of section</h3>
+                <h4>Category</h4>
+                <h5>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.
+                    </p>
+                </h5>                
+                <h4>Tags:#Tag1,#Tag2,#Tag3</h4>
             </div>
         </div>
         <div class="divEdett"></div>

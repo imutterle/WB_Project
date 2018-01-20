@@ -55,8 +55,12 @@
                                 </li>
                             </ul>
                             <ul class="nav navbar-nav navbar-right">
-                            <span class="glyphicon glyphicon-search white"></span>
-                               <input type="text" name="search" placeholder="Search..">
+                                <form class="search" action=”” method=”get”>
+                                    <fieldset class="searchFieldset">
+                                        <button class="searchButton" alt="Cerca" title="Search.."><span class="glyphicon glyphicon-search black"></span></button>
+                                        <input type="text" name="search" placeholder="Search..">
+                                    </fieldset>
+                                </form>
                             </ul>
                         </div>  
                      </div>

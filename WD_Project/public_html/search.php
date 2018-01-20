@@ -12,23 +12,40 @@
             <div class="searchInbox col-md-12">
                 <div class="col-md-4">
                     <div class="row">
-                        <button class="glyphicon glyphicon-search black"></button>
-                        <input type="text" name="search" placeholder="Search..">
+                        <form class="search" action=”” method=”get”>
+                            <fieldset class="searchFieldset">
+                                <button class="searchButton" alt="Cerca" title="Search.."><span class="glyphicon glyphicon-search black"></span></button>
+                                <input type="text" name="search" placeholder="Search..">
+                            </fieldset>
+                        </form>
                     </div>
                     <div class="row">
-                        <span class="glyphicon glyphicon-search black"></span>
-                        <input type="text" name="search" placeholder="Search..">
+                        <button class="btn">Search as a tag</button>
+                        <button class="btn">Search as a keyword</button>
                     </div>
-                </div>
-                
+                </div>                
                 <div class="col-md-4">
-                    <span class="glyphicon glyphicon-search black"></span>
-                    <input type="text" name="search" placeholder="Search..">
-                </div>
-                
+                    <div class="row">
+                        <h5>Select a category</h5>
+                    </div>
+                    <div class="row">
+                        <select class="form-control searchInfo">
+                              <option>Man Products</option>
+                              <option>Woman Products</option>
+                              <option>Kid Products</option>
+                        </select>
+                    </div>
+                </div>                
                 <div class="col-md-4">
-                    <span class="glyphicon glyphicon-search black"></span>
-                    <input type="text" name="search" placeholder="Search..">
+                    <div class="row">
+                        <h5>Sort by</h5>
+                    </div>
+                    <div class="row">
+                        <select class="form-control searchInfo">
+                              <option>Most recent</option>
+                              <option>Last recent</option>
+                        </select>
+                    </div>
                 </div>
             </div>
             

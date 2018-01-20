@@ -1,0 +1,24 @@
+.searchFieldset{
+    vertical-align: middle;
+    border: 0px solid;
+    padding: 0
+}
+
+.searchInput{
+    background: #FFF;
+    border: 1px solid;
+    border-color: black;
+    font: 16px Arial,sans-serif;
+    color: black;
+    border-radius: 8px;
+}
+
+.searchButton{
+    background: white;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.searchInfo {
+    max-width: 95%;
+}
