@@ -6,8 +6,7 @@
         
         <?php include("../Navbar1.php"); ?>
         
-        <div class="container">
-            
+        <div class="container">       
             <div class="path">
                 <a href="../homepage.php">Home</a> / <a href="shop.php">Shop</a>
             </div>
@@ -42,12 +41,18 @@
                 </div>
             </div>
             
-            <div class="row">
-                <div>
-                    Best seller products..
-                </div>
+            <div class="container">
+                        <h2 class="col-md-12 col-md-offset-4">Best Seller Products</h2>
+                    <div class="col-md-3 col-md-offset-1">
+                          <img class="img-responsive" src="../../img/maglietta1.jpg">
+                    </div>
+                    <div class="col-md-3">
+                          <img class="img-responsive" src="../../img/maglietta2.jpg">
+                    </div>
+                    <div class="col-md-3">
+                          <img class="img-responsive" src="../../img/maglietta3.jpg">
+                    </div>
             </div>
-            
         </div>
         
         <!--FOOTER -->

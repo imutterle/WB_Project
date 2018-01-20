@@ -13,24 +13,25 @@
             </div>
             <!-- corpo blog -->
             <div class="container">
-                <div class="col-md-4">
-                    <img class="img-responsive" src="../img/1.jpg">
-                </div>
-                <div class="col-md-8">
-                    <h1>title</h1>
-                    <p>testo vario</p>
-                    <button class="btn" type="button" onclick="location.href='article.php'">read more</button>
-                </div>
+                    <div class="col-md-4">
+                        <img class="img-responsive" src="../img/2.jpg">
+                    </div>
+                    <div class="col-md-8">
+                        <h1>Title</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur ultricies urna, non convallis ex pellentesque pellentesque. Integer eu mollis risus, quis aliquet turpis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed viverra semper molestie. Integer ac aliquam erat. Nullam vel consequat nunc, vitae scelerisque sapien.</p>
+                        <button class="btn" type="button" onclick="location.href='article.php'">read more</button>
+                    </div>
             </div>
+    
             <div class="container">
-                <div class="col-md-4">
-                    <img class="img-responsive" src="../img/1.jpg">
-                </div>
-                <div class="col-md-8">
-                    <h1>title</h1>
-                    <p>testo vario</p>
-                    <button class="btn" type="button" onclick="location.href='article.php'">read more</button>
-                </div>
+                    <div class="col-md-4">
+                        <img class="img-responsive" src="../img/3.jpg">
+                    </div>
+                    <div class="col-md-8">
+                        <h1>Title</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur ultricies urna, non convallis ex pellentesque pellentesque. Integer eu mollis risus, quis aliquet turpis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed viverra semper molestie. Integer ac aliquam erat. Nullam vel consequat nunc, vitae scelerisque sapien.</p>
+                        <button class="btn" type="button" onclick="location.href='article.php'">read more</button>
+                    </div>
             </div>
         </div>
 

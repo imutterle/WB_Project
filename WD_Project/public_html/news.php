@@ -9,19 +9,30 @@
             <div class="path">
                 <a href="homepage.php">Home</a> / <a href="news.php">News</a>
             </div>
-
                 <h1>Latest news</h1>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6" style="float: left">
-                            <img class="img-responsive" src="../img/1.jpg">  
-<!--                        queste tre voci vanno affiancate all'immagine-->
-                            <h2>description</h2>
-                            <h3>lorem ... </h3>
-                            <b><p>tags: #tag1, #tag2, ... </p></b>
+                <div class="container">
+                    <!--prima notizia-->
+                    <div class="col-md-4">
+                        <img class="img-responsive" src="../img/1.jpg">
+                    </div>
+                    <div class="col-md-8">
+                        <h1>Description</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur ultricies urna, non convallis ex pellentesque pellentesque. Integer eu mollis risus, quis aliquet turpis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed viverra semper molestie. Integer ac aliquam erat. Nullam vel consequat nunc, vitae scelerisque sapien.</p>
+                        <p><b>tags:</b> tag1,tag2,tag3,...</p>
                     </div>
                 </div>
-            </div>
+                
+                <div class="container">
+                    <!--seconda notizia-->
+                    <div class="col-md-4">
+                        <img class="img-responsive" src="../img/2.jpg">
+                    </div>
+                    <div class="col-md-8">
+                        <h1>Description</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur ultricies urna, non convallis ex pellentesque pellentesque. Integer eu mollis risus, quis aliquet turpis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed viverra semper molestie. Integer ac aliquam erat. Nullam vel consequat nunc, vitae scelerisque sapien.</p>
+                        <p><b>tags:</b> tag1,tag2,tag3,...</p>
+                    </div>
+                </div>
         </div>
         
         <!--FOOTER -->

@@ -7,8 +7,6 @@
         <?php include("Navbar0.php"); ?>
         
         <!-- CAROUSEL -->
-
-        <!-- mancano le immagini da inserire nel carousel -->
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
               <!-- Indicators -->
               <ol class="carousel-indicators">
@@ -23,7 +21,7 @@
                       <img src="../img/1.jpg">
                       <div class="carousel-caption">
                           <h2>Prova anche tu esperienze entusiasmanti!</h2>
-                        <p>Diventa astronauta per un giorno</p> <!-- CENTRARE TESTO : FATTO-->
+                        <p>Diventa astronauta per un giorno</p>
                           <button type="button" class="btn" onclick="location.href='projects/SpatialTourism.php'"> Learn more</button>
                       </div>
                     </div>
@@ -38,7 +36,7 @@
                     </div>
 
                     <div class="item">
-                      <img src="../img/3.jpg" alt="qualcosa">
+                      <img src="../img/3.jpg">
                       <div class="carousel-caption">
                         <h2>Visita la nostra gallery</h2>
                         <p>vedrai qualcosa di straordinario</p>
