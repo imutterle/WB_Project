@@ -14,7 +14,7 @@
             <div class="spatialTourism">
                 <h1>Projects</h1>
                 <h3>Description of the section</h3>
-                <h5>Lorem ...</h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit placerat euismod. Fusce sit amet risus eget diam mattis euismod. Fusce ut dictum tellus, in venenatis quam. Cras luctus laoreet felis nec gravida. Pellentesque nec ultricies metus, sed tempor risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus dapibus, nulla et tincidunt suscipit, libero eros pulvinar odio, eget convallis augue libero non est. Integer posuere finibus consequat.</p>
            </div>
             <!-- primo gruppo di esperienze-->
               <div class="row">

@@ -10,10 +10,8 @@
                 <a href="../homepage.php">Home</a> / <a href="../Projects.php">Projects</a> / <a href="Engine.php">Engine</a>
             </div>
             
-            <div class="engine">
-                <h1>Title</h1>
-                <h3>Description of the section</h3>
-                <h5>Lorem ...</h5>
+             <div>
+                <h1>Engine</h1>
             </div>
         </div>
         
