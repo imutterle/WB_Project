@@ -24,7 +24,7 @@
                                     <a href="../aboutUs.php">About us</a>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="Projects.php">Projects </a>
+                                    <a href="../Projects.php">Projects </a>
                                         <ul class="dropdown-menu">
                                         <li><a href="../projects/SpatialTourism.php">Spatial Tourism</a></li>
                                         <li><a href="../projects/SpaceSatelliteLaunch.php">Satellite Launch</a></li>
