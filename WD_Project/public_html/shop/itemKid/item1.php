@@ -10,7 +10,7 @@
         <!--SEZIONE MENU-->
 		<div class="container">
             <div class="path">
-                    <a href="../../homepage.php">Home</a> / <a href="../shop.php">Shop</a> / <a href="../shopKid.php">Man products</a> / <a href="item1.php">Selected item</a>
+                    <a href="../../homepage.php">Home</a> / <a href="../shop.php">Shop</a> / <a href="../shopKid.php">Kid products</a> / <a href="item1.php">Selected item</a>
             </div>
             
             <div class="row">
