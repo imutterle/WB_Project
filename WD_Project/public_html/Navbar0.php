@@ -51,16 +51,18 @@
                             <ul class="nav navbar-nav navbar-right">
                                 <li>
                                     <a data-toggle="modal" data-target="#FormNav"><span class="glyphicon glyphicon-user"></span>Access</a>
+                                    
                                 </li>
-                            </ul>
-                            <ul class="nav navbar-nav navbar-right">
+                                 <li>
                                 <form class="search" action="search/search1.php" method="get">
                                     <fieldset class="searchFieldset">
                                         <button class="searchButton" alt="Cerca" title="Search.."><span class="glyphicon glyphicon-search black"></span></button>
                                         <input type="text" name="search" placeholder="Search..">
                                     </fieldset>
                                 </form>
+                                      </li>
                             </ul>
+                            
                         </div>
                      </div>
                 </nav>
