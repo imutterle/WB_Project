@@ -94,12 +94,14 @@
                                     <fieldset>
                                         <h3 class="centro">Register now</h3>
                                         <form>
-                                              <div class="form-group">
-                                                    <input type="text" class="form-control" placeholder="First and last name">
-                                              </div>
-                                              <div class="form-group">
-                                                    <input type="text" class="form-control" placeholder="E-mail">
-                                              </div>
+                                            <div class="container">
+                                                  <div class="form-group">
+                                                        <input type="text" class="form-control" placeholder="First and last name" style="width:300px">
+                                                  </div>
+                                                  <div class="form-group">
+                                                        <input type="text" class="form-control" placeholder="E-mail" style="width:300px">
+                                                  </div>
+                                            </div>
                                               <div class="form-row">
                                                     <div class="form-group col-md-6">
                                                       <input type="email" class="form-control" placeholder="Username">
