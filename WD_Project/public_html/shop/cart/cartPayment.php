@@ -26,7 +26,7 @@
                       <input class="form-control">
                 </div>
                 <div class="form-group">
-                      <label>Card Expiry Date (vanno allineati)</label>
+                      <label>Card Expiry Date</label>
                           <span><input class="form-control" style="width: 50px">/</span>
                           <span><input class="form-control" style="width: 50px"></span>
                 </div>
