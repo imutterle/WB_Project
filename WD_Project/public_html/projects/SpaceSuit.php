@@ -17,28 +17,23 @@
             </div>
 
             <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                             <img class="img-responsive" src="../../img/spacesuit1.jpg">
                             <h3>History</h3>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
 
                             <img class="img-responsive" src="../../img/spacesuit2.jpg">
                             <h3>Materials</h3>
 
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
 
                             <img class="img-responsive" src="../../img/spacesuit3.jpg">
                             <h3> Science studies for spacesuits</h3>
 
                     </div>
-                    <div class="col-md-3">
 
-                            <img class="img-responsive" src="../../img/spaceProjects4.jpg">
-                            <h3>Suborbital Spaceflight</h3>
-
-                    </div>
               </div>
         </div>
 
