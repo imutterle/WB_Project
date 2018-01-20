@@ -11,7 +11,7 @@
             </div>
 
             <div class="spaceSatelliteLaunch">
-                <h1>Title</h1>
+                <h1>Space Satellite Launch</h1>
                 <h3>Description of the section</h3>
                 <h5>Lorem ...</h5>
             </div>

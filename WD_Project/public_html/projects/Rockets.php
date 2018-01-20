@@ -11,7 +11,7 @@
             </div>
 
             <div class="rockets">
-                <h1>Title</h1>
+                <h1>Rockets</h1>
                 <h3>Description of the section</h3>
                 <h5>Lorem ...</h5>
             </div>

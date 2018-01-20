@@ -1,15 +1,15 @@
 <html lang="it">
     <?php include ("../head1.html"); ?>
     <body>
-        
+
         <!-- NAVBAR -->
         <?php include("../Navbar1.php"); ?>
-        
-        <div class="container"> 
+
+        <div class="container">
             <div class="path">
                 <a href="../homepage.php">Home</a> / <a href="../Projects.php">Projects</a> / <a href="SpatialTourism.php">Spatial Tourism</a>
             </div>
-            
+
             <div class="spatialTourism">
                 <h1>Spatial Tourism</h1>
                 <h3>Description of the section</h3>
@@ -29,7 +29,7 @@
                             <h3>Space Station</h3>
                         </a>
                     </div>
-                    <div class="col-md-3">                        
+                    <div class="col-md-3">
                         <a href="../dettaglioExperiences/dettaglioSpacewalk.php">
                             <img class="img-responsive" src="../../img/spaceProjects3.jpg">
                             <h3>Spacewalk</h3>
@@ -63,10 +63,10 @@
                         </a>
                     </div>
               </div>
-       </div>   
-        
-        
-        <!--FOOTER -->    
+       </div>
+
+
+        <!--FOOTER -->
         <?php include("../footer1.php"); ?>
     </body>
 </html>
