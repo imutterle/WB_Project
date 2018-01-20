@@ -1,6 +1,7 @@
 /*VOCI MENU*/
-.navbar-toggle {
+.navbar-inverse .navbar-toggle {
   float: left;
+    background-color: black !important;
 }
 /*tutte le voci del menu in maiuscolo*/
 .navbar li a {
@@ -10,6 +11,7 @@
     color: white !important;
     text-align: left;
 }
+
 
 /*colore del brand in maiuscolo*/
 .navbar-inverse .navbar-brand{
