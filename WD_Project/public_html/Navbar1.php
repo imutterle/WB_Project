@@ -49,7 +49,7 @@
                                 </li>
 
                             </ul>
-                            <ul class="nav navbar-nav navbar-center">
+                            <ul class="nav navbar-nav navbar-right">
                                 <li>
                                     <a data-toggle="modal" data-target="#FormNav"><span class="glyphicon glyphicon-user"></span>Access</a>
                                 </li>
