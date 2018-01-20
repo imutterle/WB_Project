@@ -50,7 +50,7 @@
                             </ul>
                             <ul class="nav navbar-nav navbar-center">
                                 <li>
-                                    <a data-toggle="modal" data-target="#FormNav"><span class="glyphicon glyphicon-user"></span>Accedi</a>
+                                    <a data-toggle="modal" data-target="#FormNav"><span class="glyphicon glyphicon-user"></span>Access</a>
                                 </li>
                             </ul>
                             <ul class="nav navbar-nav navbar-right">

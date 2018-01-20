@@ -20,8 +20,8 @@
                     <div class="item active">
                       <img src="../img/1.jpg">
                       <div class="carousel-caption">
-                          <h2>Prova anche tu esperienze entusiasmanti!</h2>
-                        <p>Diventa astronauta per un giorno</p>
+                          <h2>Try exciting experiences</h2>
+                          <p>Become an astronaut for a day</p>
                           <button type="button" class="btn" onclick="location.href='projects/SpatialTourism.php'"> Learn more</button>
                       </div>
                     </div>
@@ -29,8 +29,8 @@
                     <div class="item">
                       <img src="../img/2.jpg">
                       <div class="carousel-caption">
-                        <h2>VIENI A SCOPRIRE I NOSTRI PROGETTI  </h2>
-                        <p>ed entra a farne parte!</p>
+                        <h2>Come and discover our projects</h2>
+                        <p>and join the party!</p>
                         <button type="button" class="btn" onclick="location.href='Projects.php'"> Learn more</button>
                       </div>
                     </div>
@@ -38,8 +38,8 @@
                     <div class="item">
                       <img src="../img/3.jpg">
                       <div class="carousel-caption">
-                        <h2>Visita la nostra gallery</h2>
-                        <p>vedrai qualcosa di straordinario</p>
+                        <h2>Visit our gallery</h2>
+                        <p>You'll see something extraordinary</p>
                           <button type="button" class="btn" onclick="location.href='gallery/gallery.php'"> Learn more </button>
                       </div>
                     </div>
