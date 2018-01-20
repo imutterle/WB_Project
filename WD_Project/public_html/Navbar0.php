@@ -32,7 +32,7 @@
                                         <li><a href="projects/Engine.php">Engine</a></li>
                                         <li><a href="projects/SpaceSuit.php">Spacesuit</a></li>
                                         <li><a href="projects/Security.php">Security</a></li>
-                                    </ul>                                
+                                    </ul>                         
                                 </li>
                                 <li>
                                     <a href="news.php">News</a>
