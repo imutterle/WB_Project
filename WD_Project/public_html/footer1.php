@@ -6,18 +6,18 @@
 
             <div class="footer-up">
                 <div class="VociFooterAlte">
-                    <a data-toggle="modal" data-target="#FormCU"><button type="button" class="btn">Contact Us</button></a> 
-                    <a data-toggle="modal" data-target="#FormNL"><button type="button" class="btn">Newsletter</button></a> 
+                    <a data-toggle="modal" data-target="#FormCU"><button type="button" class="btn">Contact Us</button></a>
+                    <a data-toggle="modal" data-target="#FormNL"><button type="button" class="btn">Newsletter</button></a>
                 </div>
             </div>
 
             <div class="footer">
                 <div class="container">
                     <div class="social">
-                               <a href="#"> <img src="../../img/icona-facebook.png" width="30px" height="auto"> </a> 
-                               <a href="#"> <img src="../../img/icona-twitter.png" width="30px" height="auto"> </a> 
-                               <a href="#"> <img src="../../img/icona-YouTube.png" width="30px" height="auto"> </a> 
-                    </div> 
+                               <a href="#"> <img src="../../img/icona-facebook.png" width="30px" height="auto"> </a>
+                               <a href="#"> <img src="../../img/icona-twitter.png" width="30px" height="auto"> </a>
+                               <a href="#"> <img src="../../img/icona-YouTube.png" width="30px" height="auto"> </a>
+                    </div>
                 </div>
             </div>
 
@@ -27,7 +27,7 @@
                     <a href="../privacy.php" class="FooterBasso">privacy&nbsp;|</a>
                     <a href="../siteIndex.php" class="FooterBasso">SiteIndex</a>
                 </div>
-            </div> 
+            </div>
         </footer>
 
        <!-- Costruzione Form Contact Us -->
@@ -37,7 +37,7 @@
                             <div class="modal-body">
                                 <form class="form-horizontal" action=" " method="post"  id="contact_form">
                                     <fieldset>
-                                        <legend class="centro">Contact Us!<button type="button" class="close" data-dismiss="modal">&times;</button></legend> 
+                                        <legend class="centro">Contact Us!<button type="button" class="close" data-dismiss="modal">&times;</button></legend>
                                     </fieldset>
                                     <div class="form-group">
                                             <div class="col-md-12">
@@ -68,7 +68,7 @@
                     </div>
                 </div>
         </div>
-        
+
         <!-- Costruzione Form Newsletter -->
         <div id="FormNL" class="modal fade" tabindex="-1" role="dialog">
               <div class="modal-dialog">
@@ -78,18 +78,18 @@
                                     <fieldset>
                                         <legend class="centro">Newsletter<button type="button" class="close" data-dismiss="modal">&times;</button></legend>
                                     </fieldset>
-                                    <div class="form-group">                                            
+                                    <div class="form-group">
                                         <div class="col-md-12">
                                             <input class="form-control" name="e_mail" placeholder="Enter e-mail" type="text">
                                         </div>
                                         <div class="col-md-12">
                                             <button type="button" class="btn">Submit</button>
                                         </div>
-                                    </div>   
+                                    </div>
                                 </form>
                             </div>
                     </div>
              </div>
-        </div>       
+        </div>
     </body>
 </html>
