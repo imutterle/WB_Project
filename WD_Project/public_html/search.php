@@ -12,7 +12,7 @@
             <div class="searchInbox col-md-12">
                 <div class="col-md-4">
                     <div class="row">
-                        <form class="search" action=”” method=”get”>
+                        <form class="search" action="search/search1.php" method="get">
                             <fieldset class="searchFieldset">
                                 <button class="searchButton" alt="Cerca" title="Search.."><span class="glyphicon glyphicon-search black"></span></button>
                                 <input type="text" name="search" placeholder="Search..">

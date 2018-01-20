@@ -54,7 +54,7 @@
                                 </li>
                             </ul>
                             <ul class="nav navbar-nav navbar-right">
-                                <form class="search" action=”” method=”get”>
+                                <form class="search" action="../../search/search1.php" method="get">
                                     <fieldset class="searchFieldset">
                                         <button class="searchButton" alt="Cerca" title="Search.."><span class="glyphicon glyphicon-search black"></span></button>
                                         <input type="text" name="search" placeholder="Search..">
