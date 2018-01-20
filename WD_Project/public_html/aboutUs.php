@@ -8,25 +8,26 @@
             <div class="path">
                 <a href="homepage.php">Home</a> / <a href="aboutUs.php">About us</a>
             </div>
-            <div class="exp-details">
-                <h1>OVERVIEW</h1>
-                    <p>Ho del testo di presentazione</p>
+            
+            <div class="exp-details col-md-8">
+                <h3>OVERVIEW</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.</p>
             </div>
-            <div class="exp-details">
-                <h1>TEAM</h1>
-                    <p>Scrivo cose riguardo le persone del team</p>
+            <div class="exp-details col-md-8">
+                <h3>TEAM</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.</p>
             </div>
-            <div class="exp-details">
-                <h1>CARRIERS</h1>
-                    <p>Ci possono essere collegamenti a contact us o altro</p>
+            <div class="exp-details col-md-8">
+                <h3>CARRIERS</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.</p>
             </div>
-            <div class="exp-details">
-                <h1>PARTNERSHIP</h1>
-                <p>qualcosa sui partner</p>
+            <div class="exp-details col-md-8">
+                <h3>PARTNERSHIP</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.</p>
             </div>
-            <div class="exp-details">
-                <h1>FAQ</h1>
-                    <p>scrivere qualcosa delle FAQ e sicurezza (che vuole pitta)</p>
+            <div class="exp-details col-md-8">
+                <h3>FAQ</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque.</p>
             </div>
         </div>
         <div class="divEdett"></div>
