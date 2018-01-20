@@ -24,16 +24,7 @@
 }   
 
 /*DROPDOWN*/
-/*voci del menu dropdown
-.dropdown li{
-    background-color: white;
-}
-.dropdown li a{
-    background-color: white;
-}
-.dropdown {
-    margin-right: 15px; */
-}
+
 /*colore menu dropdown*/
 .navbar-inverse .navbar-toggle{
     background-color: white;
@@ -62,7 +53,10 @@ input[type=text]:focus {
 }
 
 /*menu a tendina PROJECTS*/
-.dropdown-menu {
-    background-color: black;
-    
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    background: black;
 }
+
+
