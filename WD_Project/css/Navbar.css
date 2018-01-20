@@ -36,6 +36,9 @@
 
 /*SEARCH*/
 input[type=text] {
+    border-radius: 8px;
+    border-width: thin;
+    border-color: black;
     width: 130px; /*dimensione "search"*/
     -webkit-transition: width 0.4s ease-in-out;
     transition: width 0.4s ease-in-out;
@@ -44,12 +47,17 @@ input[type=text] {
 
 /* quando seleziono "search" si ridimensiona*/
 input[type=text]:focus {
+    border-radius: 8px;
     width:90%;
 }
 
 /*ICONE*/
 .white {
   color: #fff;
+}
+
+.black {
+  color: #000;
 }
 
 /*menu a tendina PROJECTS*/
