@@ -26,13 +26,12 @@
                                <li class="dropdown">
                                     <a href="Projects.php">Projects </a>
                                         <ul class="dropdown-menu">
-                                        <li><a href="../projects/SpatialTourism.php">Spatial Tourism</a></li>
-                                        <li><a href="../projects/SpaceSatelliteLaunch.php">Satellite Launch</a></li>
-                                        <li><a href="../projects/Rockets.php">Rockets</a></li>
-                                        <li><a href="../projects/Engine.php">Engine</a></li>
-                                        <li><a href="../projects/SpaceSuit.php">Spacesuit</a></li>
-                                        <li><a href="../projects/Security.php">Security</a></li>
-                                        
+                                        <li><a href="projects/SpatialTourism.php">Spatial Tourism</a></li>
+                                        <li><a href="projects/SpaceSatelliteLaunch.php">Satellite Launch</a></li>
+                                        <li><a href="projects/Rockets.php">Rockets</a></li>
+                                        <li><a href="projects/Engine.php">Engine</a></li>
+                                        <li><a href="projects/SpaceSuit.php">Spacesuit</a></li>
+                                        <li><a href="projects/Security.php">Security</a></li>
                                     </ul>                                
                                 </li>
                                 <li>
