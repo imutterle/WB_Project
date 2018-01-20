@@ -10,20 +10,22 @@
         <!--SEZIONE MENU-->
 		<div class="container">
             <div class="path">
-                    <a href="../../homepage.php">Home</a> / <a href="../shop.php">Shop</a> / <a href="../shopMan.php">Man products</a> / <a href="item2.php">Selected item</a>
+                    <a href="../../homepage.php">Home</a> / <a href="../shop.php">Shop</a> / <a href="../shopMan.php">Man products</a> / <a href="item1.php">Selected item</a>
             </div>
             
             <div class="row">
                 <div class="col-md-5">
                     <div class="row">
-                        <img class="img-responsive" src="../../../img/2.jpg">
+                        <img class="img-responsive" src="../../../img/1.jpg">
                     </div>
                     <div class="row">
                         <div class="col-md-6">
                             <a ><button type="button" class="btn">Add to Cart</button></a> 
                         </div>
                         <div class="col-md-6">
-                            <button type="button" class="btn" onclick="location.href='../cart/cartDesktop.php'"> Buy Now </button>
+                           <a>
+                                <button type="button" class="btn" onclick="location.href='../cart/cartDesktop.php'"> Buy Now </button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -33,28 +35,42 @@
                         <h1>Product Name</h1>
                     </div>
                     <div class="expense">
-                        <h3>&#36 24,99</h3>
+                        <h3>&#36 15,99</h3>
                     </div>
                     <div class="colors">
-                        <h5>colors form</h5>
+                        <h4>colors</h4>
+                        <button class="btn btn-default" type="submit" style="background-color:red"></button>
+                        <button class="btn btn-default" type="submit" style="background-color:orange"></button>
+                        <button class="btn btn-default" type="button" style="background-color:green"></button>
+                        <button class="btn btn-default" type="submit" style="background-color:blue"></button>
+                        <button class="btn btn-default" type="submit" style="background-color:white"></button>
                     </div>
                     <div class="size">
-                        <h5>size form</h5>
+                        <h4>size</h4>
+                        <button class="btn btn-default" type="submit">XS</button>
+                        <button class="btn btn-default" type="submit">SM</button>
+                        <button class="btn btn-default" type="button">M</button>
+                        <button class="btn btn-default" type="submit">L</button>
+                        <button class="btn btn-default" type="submit">XL</button>
                     </div>
                     <div class="seller">
                         <h3>Seller</h3>
-                        <h5>Description of the section</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget urna quis massa sodales finibus non ac lacus. Praesent metus mauris, laoreet quis tristique tristique, fringilla ut quam.</p>
+                    </div>
+                    <div class="warranty">
+                        <h3>Warranty</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget urna quis massa sodales finibus non ac lacus. Praesent metus mauris, laoreet quis tristique tristique, fringilla ut quam.</p>
                     </div>
                     <div class="productDescription">
                         <h3>Product Description</h3>
-                        <h5>Description of the section</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget urna quis massa sodales finibus non ac lacus. Praesent metus mauris, laoreet quis tristique tristique, fringilla ut quam.</p>
                     </div>
                     <div class="tags">
-                        <h3>Tags</h3>
-                        <h5>Description of the section</h5>
+                        <p><b>tags:</b> tag1,tag2,tag3,...</p>
                     </div>
                 </div>
-            </div>
+            </div>            
+            
 		</div>
         
         <!--FOOTER -->
