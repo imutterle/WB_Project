@@ -5,7 +5,7 @@
             <!-- Navigation -->
                 <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
                       <div class="container">
-                        <div class="navbar-header pull-left">
+                        <div class="navbar-header">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
                                 <span class="sr-only">Toggle navigazione</span>
                                 <span class="icon-bar"></span>
@@ -15,22 +15,21 @@
 
                             <!-- Brand -->
                             <a class="navbar-brand" href="../../homepage.php">Spatial<br>Tourism</a>
-
                         </div>
                           
                           <div class="navbar-header pull-right">
-                          <ul class="nav navbar-nav navbar-right">
+                          <ul class="nav navbar-nav">
                                 <li>
                                     <a data-toggle="modal" data-target="#FormNav"><span class="glyphicon glyphicon-user"></span>Access</a>
                                 </li>
-                            </ul>
-                            <ul class="nav navbar-nav navbar-right">
+                              <li>
                                 <form class="search" action="../../search/search1.php" method="get">
                                     <fieldset class="searchFieldset">
                                         <button class="searchButton" alt="Cerca" title="Search.."><span class="glyphicon glyphicon-search black"></span></button>
                                         <input type="text" name="search" placeholder="Search..">
                                     </fieldset>
                                 </form>
+                              </li>
                             </ul>
                           </div>
                          <!-- Insieme di links, forms, and altri componenti per la navbar -->

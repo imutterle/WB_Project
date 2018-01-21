@@ -1,6 +1,6 @@
 /*VOCI MENU*/
 .navbar-inverse .navbar-toggle {
-  float: left;
+  float:left;
     background-color: black !important;
 }
 /*tutte le voci del menu in maiuscolo*/
@@ -11,7 +11,6 @@
     color: white !important;
     text-align: left;
 }
-
 
 /*colore del brand in maiuscolo*/
 .navbar-inverse .navbar-brand{
@@ -31,7 +30,7 @@
 
 /*colore menu dropdown*/
 .navbar-inverse .navbar-toggle{
-    background-color: white;
+    background-color: black;
 }
 .navbar-inverse .navbar-toggle .icon-bar{
     background-color: white;
@@ -64,13 +63,4 @@ input[type=text]:focus {
   color: #000;
 }
 
-/*menu a tendina PROJECTS*/
 
-.dropdown:hover .dropdown-menu {
-    display: block;
-    background: black;
-}
-
-.dropdown-menu>li>a:hover{
-    color: black !important;
-}

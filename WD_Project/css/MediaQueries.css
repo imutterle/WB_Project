@@ -1,74 +1,28 @@
 /*MEDIA QUERIES*/
-@media (max-width: 1920px) {
 
-    .carousel-caption h1 {
-      font-size: 120px;
-        color: black;
-    }
-
-    .carousel-caption p {
-      font-size: 20px;
-    }
-}
-
-@media (max-width: 1280px) {
-    .carousel-caption h1 {
-        font-size: 100px;
-         color: black;
-    }
-
-    .carousel-caption p {
-      font-size: 20px;
-    }
-}
-
-@media (max-width: 1024px) {
-    .carousel-caption h1 {
-      font-size: 80px;
-        color: black;
-    }
-
-    .carousel-caption p {
-      font-size: 15px;
-    }
-}
-
-@media (max-width: 800px) {
-    .carousel-caption h1 {
-      font-size: 60px;
-    }
-
-    .carousel-caption p {
-      font-size: 12px;
-    }
-}
-
-@media (max-width: 700px) {
-    .carousel-caption h1 {
-      font-size: 40px;
-    }
-
-    .carousel-caption p {
-      font-size: 8px;
-    }
-}
-
-@media (max-width: 500px) {
-  .carousel-caption h1 {
-      font-size: 30px;
-      display: none; /*nascondo il testo se la risoluzione è troppo bassa*/
-    }
-
-    .carousel-caption p {
-      font-size: 5px;
-      display: none;
-    }
-}
-
-@media (min-width: 300px) and (max-width: 600px) {
+@media (max-width: 600px) {
     .navbar-inverse fieldset{
     margin-right: 30px;
 }
+    body{
+        margin-top: 104px;
+    }
+    .dropdown .dropdown-menu {
+    display: contents;
+    background: black;
+}
+    
+    .carousel-caption h2 {
+      font-size: 20px;
+      margin-top: 20px;
+    }
+
+    .carousel-caption p {
+      font-size: 10px;
+      
+    }
+ 
+    
 }
 @media (min-width: 601px) and (max-width: 1024px){
   .navbar-header {
@@ -103,12 +57,52 @@
         padding-bottom: 10px;
     }
     .collapse.in{
-        display:block !important;
+        display:contents!important;
     }
+    
+    
     .navbar-inverse fieldset{
     margin-right: 30px;
 }
+    body{
+        margin-top: 104px;
+    }
+    
+    .dropdown .dropdown-menu {
+    display: contents;
+    background: black;
+}
+    
+      .carousel-caption h2 {
+      font-size: 45px;
+      
+    }
+
+    .carousel-caption p {
+      font-size: 15px;
+      
+    }
+    .navbar-collapse li a{
+        text-align: left;
+    }
+   .dropdown-menu>li>a:hover{
+    color: white !important;
+    background-color: transparent;
+}
 }
 @media (min-width: 1025px){
-    
+    .dropdown:hover .dropdown-menu {
+    display: block;
+    background: black;
+}
+      .carousel-caption h2 {
+      font-size: 65px;
+    }
+
+    .carousel-caption p {
+      font-size: 20px;
+    }
+    .dropdown-menu>li>a:hover{
+    color: black !important;
+}
 }
