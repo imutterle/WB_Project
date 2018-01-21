@@ -23,12 +23,46 @@
                                     <a data-toggle="modal" data-target="#FormNav"><span class="glyphicon glyphicon-user"></span>Access</a>
                                 </li>
                               <li>
-                                <form class="search" action="../../search/search1.php" method="get">
-                                    <fieldset class="searchFieldset">
-                                        <button class="searchButton" alt="Cerca" title="Search.."><span class="glyphicon glyphicon-search black"></span></button>
-                                        <input type="text" name="search" placeholder="Search..">
-                                    </fieldset>
-                                </form>
+                                    <form class="search" action="../../search/search1.php" method="get">
+                                        <fieldset class="searchFieldset">
+                                            <button class="searchButton" alt="Cerca" title="Search.."><span class="glyphicon glyphicon-search black"></span></button>
+                                            <button class="searchButton" data-toggle="dropdown"><span class="glyphicon glyphicon-cog black"></span></button>
+                                            <div class="dropdown-menu dropdown-options" role="menu">
+                                                 <div>                                                     
+                                                     <div class="row">
+                                                        <h5>Options:</h5>
+                                                    </div>
+                                                    <div class="row">
+                                                        <button class="btn">Search as a tag</button>
+                                                         <button class="btn">Search as a keyword</button>
+                                                    </div>
+                                                     <div class="row">
+                                                        <h5>Select a category:</h5>
+                                                    </div>
+                                                    <div class="row">
+                                                        <select class="form-control searchInfo">
+                                                              <option>Man Products</option>
+                                                              <option>Woman Products</option>
+                                                              <option>Kid Products</option>
+                                                        </select>
+                                                    </div>
+                                                    <div class="row">
+                                                        <h5>Sort by:</h5>
+                                                    </div>
+                                                    <div class="row">
+                                                        <select class="form-control searchInfo">
+                                                              <option>Most recent</option>
+                                                              <option>Last recent</option>
+                                                        </select>
+                                                    </div>
+                                                     <div class="row">
+                                                        <button type="submit" class="searchButton"><span class="glyphicon glyphicon-search"></span></button>
+                                                     </div>
+                                                  </div>
+                                            </div>
+                                            <input class="searchBarNav" type="text" name="search" placeholder="Search..">
+                                        </fieldset>
+                                    </form>
                               </li>
                             </ul>
                           </div>

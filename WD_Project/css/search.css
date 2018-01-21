@@ -28,8 +28,6 @@
 }
 
 .dropdown-options {
-    display: none;
-    position:absolute;
     max-width: 300px;
     min-width: 300px;
     width: 300px;
