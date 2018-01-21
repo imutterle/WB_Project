@@ -1,11 +1,11 @@
 <html lang="it">
 <?php include ("head0.html"); ?>
     <body>
-        
+
         <!-- NAVBAR -->
         
         <?php include("Navbar0.php"); ?>
-        
+
         <!-- CAROUSEL -->
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
               <!-- Indicators -->
@@ -55,10 +55,10 @@
                 <span class="sr-only">Next</span>
               </a>
         </div>
-        
+
         <!--FOOTER -->
-        
+
         <?php include("footer0.php"); ?>
-        
+
    </body>
 </html>

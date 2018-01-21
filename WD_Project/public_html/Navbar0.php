@@ -51,7 +51,7 @@
                             <ul class="nav navbar-nav navbar-right">
                                 <li>
                                     <a data-toggle="modal" data-target="#FormNav"><span class="glyphicon glyphicon-user"></span>Access</a>
-                                    
+
                                 </li>
                                  <li>
                                 <form class="search" action="search/search1.php" method="get">
@@ -62,7 +62,7 @@
                                 </form>
                                       </li>
                             </ul>
-                            
+
                         </div>
                      </div>
                 </nav>

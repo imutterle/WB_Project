@@ -15,10 +15,10 @@
 
                             <!-- Brand -->
                             <a class="navbar-brand" href="homepage.php">Spatial<br>Tourism</a>
-                            
+
                         </div>
-                          
-                          
+
+
                            <div class="navbar-header pull-right">
                              <ul class="nav navbar-nav">
                                 <li>
@@ -33,9 +33,9 @@
                                     </fieldset>
                                 </form>
                             </ul>
-                               
+
                           </div>
-                               
+
                          <!-- Insieme di links, forms, and altri componenti per la navbar -->
                         <div class="collapse navbar-collapse" id="navbar-collapse">
                             <ul class="nav navbar-nav">
@@ -67,7 +67,7 @@
                                 </li>
 
                             </ul>
-                            
+
                         </div>
                      </div>
                 </nav>
