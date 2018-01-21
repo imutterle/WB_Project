@@ -8,10 +8,10 @@
         <div class="container">
             
             <div class="path">
-                <a href="homepage.php">Home</a> / <a href="terminiUso.php">Termini d'uso</a>
+                <a href="homepage.php">Home</a> / <a href="terminiUso.php">Terms of use</a>
             </div>
             <div class="col-md-8">
-                <h3>Privacy Policy</h3>
+                <h3>Terms of use</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque. Morbi venenatis cursus sapien ac maximus. Fusce mollis ornare nulla, tempus rutrum ligula placerat non. Etiam semper urna mauris, at posuere massa fringilla eu. Vestibulum finibus turpis sit amet eros mattis elementum. In lacinia dictum hendrerit. Etiam volutpat ligula ut velit mattis, blandit pharetra mi ullamcorper. Aliquam nec molestie eros, nec ullamcorper urna. In porta, tortor quis vestibulum luctus, ipsum augue commodo neque, ut pulvinar nibh nisl quis augue.</p>
             </div>
             <div class="col-md-8">
@@ -50,7 +50,8 @@
                 <h3>Your acceptance of these terms</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut sapien est. Vestibulum vitae nibh augue. Nam tristique mauris pretium, ornare nisl non, posuere dolor. Aenean non efficitur ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec interdum dui at massa mollis, a malesuada purus scelerisque. Morbi venenatis cursus sapien ac maximus. Fusce mollis ornare nulla, tempus rutrum ligula placerat non. Etiam semper urna mauris, at posuere massa fringilla eu. Vestibulum finibus turpis sit amet eros mattis elementum. In lacinia dictum hendrerit. Etiam volutpat ligula ut velit mattis, blandit pharetra mi ullamcorper. Aliquam nec molestie eros, nec ullamcorper urna. In porta, tortor quis vestibulum luctus, ipsum augue commodo neque, ut pulvinar nibh nisl quis augue.</p>
             </div>
-        </div>
+        </div>        
+        <div class="divEdett"></div>
         <!--FOOTER -->
             
         <?php include("footer0.php"); ?>
