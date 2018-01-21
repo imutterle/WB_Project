@@ -51,7 +51,7 @@ input[type=text] {
 /* quando seleziono "search" si ridimensiona*/
 input[type=text]:focus {
     border-radius: 8px;
-    width:80%;
+    width:75%;
 }
 
 /*ICONE*/
@@ -62,5 +62,6 @@ input[type=text]:focus {
 .black {
   color: #000;
 }
+
 
 
