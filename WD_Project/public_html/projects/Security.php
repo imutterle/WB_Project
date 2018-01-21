@@ -17,32 +17,31 @@
             </div>
 
             <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-3">
+                        <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/security1.jpg">
                             <h3>Security classes - Beginers</h3>
+                        </a>
                     </div>
-                    <div class="col-md-4">
-
+                    <div class="col-md-3">
+                        <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/security2.jpg">
                             <h3>Security classes - Intermediates</h3>
-
+                        </a>
                     </div>
-                    <div class="col-md-4">
-
+                    <div class="col-md-3">
+                        <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/security3.jpg">
                             <h3>Security classes - Experts</h3>
-
+                        </a>
                     </div>
-
-              </div>
-
-              <div class="row">
-                      <div class="col-md-offset-4 col-md-4">
-                              <img class="img-responsive" src="../../img/security4.jpg">
+                    <div class="col-md-3">
+                        <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
+                            <img class="img-responsive" src="../../img/security4.jpg">
                               <h3>Security - our rules</h3>
-                      </div>
+                        </a>
+                    </div>
               </div>
-
         </div>
 
         <!--FOOTER -->

@@ -18,22 +18,23 @@
 
             <div class="row">
                     <div class="col-md-4">
+                        <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/spacesuit1.jpg">
                             <h3>History</h3>
+                        </a>
                     </div>
                     <div class="col-md-4">
-
+                        <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/spacesuit2.jpg">
                             <h3>Materials</h3>
-
+                        </a>
                     </div>
                     <div class="col-md-4">
-
+                        <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/spacesuit3.jpg">
                             <h3> Science studies for spacesuits</h3>
-
+                        </a>
                     </div>
-
               </div>
         </div>
 

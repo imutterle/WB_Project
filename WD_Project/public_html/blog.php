@@ -34,7 +34,7 @@
                     </div>
             </div>
         </div>
-
+        <div class="FP"></div>
         <!--FOOTER -->
         <?php include("footer0.php"); ?>   
    </body>

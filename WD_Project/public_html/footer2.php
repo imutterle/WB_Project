@@ -1,8 +1,7 @@
 <html>
     <?php include ("head2.html"); ?>
     <body>
-        <div class="FP"></div>
-        <footer class="footer footer-inverse navbar-fixed-bottom">
+        <footer class="footer footer-inverse">
 
             <div class="footer-up">
                 <div class="VociFooterAlte">

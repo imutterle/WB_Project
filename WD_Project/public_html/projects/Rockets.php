@@ -16,28 +16,33 @@
                 <h5>Lorem ...</h5>
             </div>
             <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-3">
+                        <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/rockets1.jpg">
                             <h3>Rocket Denny</h3>
+                        </a>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
+                            <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/rockets2.jpg">
                             <h3>Rocket Daniele</h3>
+                        </a>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
+                          <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/rockets3.jpg">
                             <h3>Rocket Luca</h3>
+                        </a>
                     </div>
-              </div>
-
-              <div class="row">
-                      <div class="col-md-offset-4 col-md-4">
-                              <img class="img-responsive" src="../../img/rockets4.jpg">
-                              <h3>Rocket Ilaria</h3>
+                <div class="col-md-3">
+                        <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
+                            <img class="img-responsive" src="../../img/rockets4.jpg">
+                            <h3>Rocket Ilaria</h3>
+                        </a>
                       </div>
               </div>
         </div>
-
+        <div class="RO"></div>
         <!--FOOTER -->
         <?php include("../footer1.php"); ?>
     </body>

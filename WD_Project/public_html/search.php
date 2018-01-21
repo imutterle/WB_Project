@@ -53,7 +53,7 @@
                 <h3>Search Results:</h3>
             </div>
         </div>
-        <div class="divEdett"></div>
+        <div class="SDE"></div>
         <!-- FOOTER -->
         <?php include("footer0.php"); ?>  
     </body>

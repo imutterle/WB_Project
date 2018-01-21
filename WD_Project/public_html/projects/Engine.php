@@ -17,27 +17,37 @@
             </div>
             <div class="row">
                     <div class="col-md-4">
+                        <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/rockets1.jpg">
                             <h3>Engine 1</h3>
+                        </a>                            
                     </div>
                     <div class="col-md-4">
+                          <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/rockets2.jpg">
                             <h3>Engine 2</h3>
+                        </a>
                     </div>
                     <div class="col-md-4">
+                         <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/rockets3.jpg">
                             <h3>Engine 3</h3>
+                        </a>
                     </div>
               </div>
 
               <div class="row">
                       <div class="col-md-offset-2 col-md-4">
-                              <img class="img-responsive" src="../../img/rockets4.jpg">
-                              <h3>Engine 4 </h3>
+                          <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
+                            <img class="img-responsive" src="../../img/rockets4.jpg">
+                            <h3>Engine 4</h3>
+                        </a>
                       </div>
                       <div class="col-md-4">
-                              <img class="img-responsive" src="../../img/rockets4.jpg">
-                              <h3>Engine 5 </h3>
+                           <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
+                            <img class="img-responsive" src="../../img/rockets4.jpg">
+                            <h3>Engine 5</h3>
+                        </a>
                       </div>
               </div>
         </div>

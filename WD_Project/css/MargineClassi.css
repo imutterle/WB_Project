@@ -2,10 +2,22 @@
     margin-top: 50px;
 }
 
+.SSL {
+    height: 30px;
+}
+
+.RO {
+    height: 85px;
+}
+
 .FP {
-    margin-bottom: 70px;
+    height: 70px;
 }
 
 .divEdett {
-    margin-bottom: 100px; 
+    height: 100px; 
+}
+
+.SDE {
+    height: 250px; 
 }

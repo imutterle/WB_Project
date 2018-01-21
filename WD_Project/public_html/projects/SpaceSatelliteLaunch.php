@@ -18,27 +18,27 @@
 
             <div class="row">
                     <div class="col-md-4">
+                        <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/satellitelaunch1.jpg">
                             <h3>Before Satellite Launch</h3>
+                        </a>
+                            
                     </div>
                     <div class="col-md-4">
-
+                        <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/satellitelaunch2.jpg">
                             <h3>During Satellite Launch</h3>
-
+                        </a>
                     </div>
                     <div class="col-md-4">
-
+                        <a href="../dettaglioExperiences/dettaglioGeneralPage.php">
                             <img class="img-responsive" src="../../img/satellitelaunch3.jpg">
                             <h3>After Satellite Launch</h3>
-
+                        </a>
                     </div>
-
               </div>
-
-
         </div>
-
+        <div class="SSL"></div>
         <!--FOOTER -->
         <?php include("../footer1.php"); ?>
     </body>
