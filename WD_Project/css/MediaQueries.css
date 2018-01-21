@@ -1,6 +1,10 @@
 /*MEDIA QUERIES*/
 
-@media (max-width: 600px) {
+@media (max-width: 600px) { 
+    .collapse.in{
+        display:contents!important;
+    }
+    
     .navbar-inverse fieldset{
     margin-right: 30px;
 }
@@ -20,6 +24,12 @@
     .carousel-caption p {
       font-size: 10px;
       
+    }
+    .navbar-collapse li a{
+        text-align: left;
+    }
+    .navbar-collapse{
+        overflow: hidden;
     }
  
     
@@ -89,6 +99,8 @@
     color: white !important;
     background-color: transparent;
 }
+    
+    
 }
 @media (min-width: 1025px){
     .dropdown:hover .dropdown-menu {
