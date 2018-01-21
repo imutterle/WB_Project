@@ -3,19 +3,51 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
-/* 
+/*
     Created on : 20-gen-2018, 10.03.49
     Author     : Ilaria
 */
+* {
+  background: white;
+  color: #000000;
 
-{ display : none; }
+}
+body img { display : none; }
 
 
+.row img {
+  display: block;
+  width: 40%;
+  height: 200px;
 
- {
+}
+
+ body {
  background : White;
  color : Black;
- font : 12pt “Times New Roman”, Times, serif;
+ font : 16pt “Times New Roman”, Times, serif;
  line-height : 1.5em;
  border : none;
+ width: 100%;
+ page-break-inside: always;
+}
+
+.navbar-fixed-bottom {
+  display: none;
+}
+
+.navbar-fixed-top {
+  display: none;
+}
+.btn {
+  display: none;
+}
+a .navbar-brand {
+  display: block;
+  color: black;
+  background-color : black;
+}
+
+.row div {
+  page-break-after: auto;
 }
