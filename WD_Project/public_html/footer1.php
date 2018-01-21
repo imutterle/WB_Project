@@ -23,9 +23,9 @@
 
             <div class="footer-bottom">
                 <div class="VociFooterBasse">
-                    <a href="../terminiUso.php" class="FooterBasso">termini d'uso&nbsp;|</a>
-                    <a href="../privacy.php" class="FooterBasso">privacy&nbsp;|</a>
-                    <a href="../siteIndex.php" class="FooterBasso">SiteIndex</a>
+                    <a href="../terminiUso.php" class="FooterBasso">Terms of use</a>&nbsp;|
+                    <a href="../privacy.php" class="FooterBasso">Privacy</a>&nbsp;|
+                    <a href="../siteIndex.php" class="FooterBasso">Site Index</a>
                 </div>
             </div>
         </footer>
