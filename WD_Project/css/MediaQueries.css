@@ -7,6 +7,17 @@
         margin-top: 0px;
         margin-right: 30px;
     }
+    body{
+        margin-top: 120px !important;
+    }
+    .carousel-caption h2 {
+      font-size: 15px;
+      margin-top: 50px;
+    }
+    .carousel-caption p {
+      display: none;
+      
+    }
 }
 @media (min-width: 400px) and (max-width: 600px) { 
     .navbar-header {
@@ -153,4 +164,7 @@
     .dropdown-menu>li>a:hover{
     color: black !important;
 }
+    .navbar-header ul{
+        margin-right: -30px;
+    }
 }
