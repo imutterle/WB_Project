@@ -49,11 +49,27 @@
                     <div class="col-md-6 col-md-offset-4">
                         <button type="button" class="btn" onclick="location.href='cartpayment.php'">Continue with payment</button>
                     </div>
-                    <div class="col-md-offset-4 btn-group">
-                        <button type="button" class="btn-success">Delivery</button>
-                        <button type="button" class="btn-secondary">Payment</button>
-                        <button type="button" class="btn-secondary">Purchase</button>
+                    
+                    
+                    <div class="stepwizard">
+                    <div class="stepwizard-row">
+                        <div class="stepwizard-step">
+                            <button type="button" class="btn btn-default btn-circle" style="background-color: blue">1</button>
+                            <p>Delivery</p>
+                        </div>
+                        <div class="stepwizard-step">
+                            <button type="button" class="btn btn-primary btn-circle"disabled="disabled">2</button>
+                            <p>Payment</p>
+                        </div>
+                        <div class="stepwizard-step">
+                            <button type="button" class="btn btn-default btn-circle" disabled="disabled">3</button>
+                            <p>Purchase</p>
+                        </div> 
                     </div>
+                </div>
+                    
+                    
+                    
                 </div>
             </div>
         </div>

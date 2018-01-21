@@ -36,13 +36,24 @@
                 </div>
                 <div class="row">
                     <div class="col-md-6 col-md-offset-5">
-                        <button type="button" class="btn" onclick="location.href='cartPurchase.php'">Proceed</button>
+                        <button type="button" class="btn" onclick="location.href='cartPurchase.php'">Proceed to Purchase</button>
                     </div>
-                    <div class="col-md-6 col-md-offset-4">
-                        <button type="button" class="btn-secondary">Delivery</button>
-                        <button type="button" class="btn-success">Payment</button>
-                        <button type="button" class="btn-secondary">Purchase</button>
+                    <div class="stepwizard">
+                    <div class="stepwizard-row">
+                        <div class="stepwizard-step">
+                            <a href="cartDelivery.php"><button type="button" class="btn btn-default btn-circle" style="background-color: green">1</button></a>
+                            <p><a href="cartDelivery.php"> Delivery </a></p>
+                        </div>
+                        <div class="stepwizard-step">
+                            <button type="button" class="btn btn-primary btn-circle" style="background-color: blue">2</button>
+                            <p>Payment</p>
+                        </div>
+                        <div class="stepwizard-step">
+                            <button type="button" class="btn btn-default btn-circle" disabled="disabled">3</button>
+                            <p>Purchase</p>
+                        </div> 
                     </div>
+                </div>
                 </div>
             </div>
         </div>
