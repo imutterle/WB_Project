@@ -26,7 +26,7 @@
                 </div>                
                 <div class="col-md-4">
                     <div class="row">
-                        <h5>Select a category</h5>
+                        <h5>Select a category:</h5>
                     </div>
                     <div class="row">
                         <select class="form-control searchInfo">
@@ -38,7 +38,7 @@
                 </div>                
                 <div class="col-md-4">
                     <div class="row">
-                        <h5>Sort by</h5>
+                        <h5>Sort by:</h5>
                     </div>
                     <div class="row">
                         <select class="form-control searchInfo">

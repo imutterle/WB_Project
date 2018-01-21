@@ -22,3 +22,17 @@
 .searchInfo {
     max-width: 95%;
 }
+
+.searchBarNav{
+    max-width: 70%;
+}
+
+.dropdown-options {
+    display: none;
+    position:absolute;
+    max-width: 300px;
+    min-width: 300px;
+    width: 300px;
+    padding-left: 20px;
+    right: 0;
+}
