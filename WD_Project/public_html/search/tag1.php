@@ -49,7 +49,7 @@
                 </div>
             </div>
             <div class="exp-details col-md-12">
-                <h3>Search Results: #</h3>
+                <h3>Search Results: <a href="tag1.php">#Tag</a></h3>
             </div>
             
             <div class="exp-details col-md-12">

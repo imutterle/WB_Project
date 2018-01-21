@@ -18,7 +18,7 @@
                     <div class="col-md-8">
                         <h1>Description</h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur ultricies urna, non convallis ex pellentesque pellentesque. Integer eu mollis risus, quis aliquet turpis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed viverra semper molestie. Integer ac aliquam erat. Nullam vel consequat nunc, vitae scelerisque sapien.</p>
-                        <p><b>tags:</b> tag1,tag2,tag3,...</p>
+                        <p><b>tags:</b><a href="search/tag1.php">#Tag 1</a>,<a href="search/tag1.php">#Tag 2</a>,<a href="search/tag1.php">#Tag 3</a></p>
                     </div>
                 </div>
                 
@@ -30,7 +30,7 @@
                     <div class="col-md-8">
                         <h1>Description</h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur ultricies urna, non convallis ex pellentesque pellentesque. Integer eu mollis risus, quis aliquet turpis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed viverra semper molestie. Integer ac aliquam erat. Nullam vel consequat nunc, vitae scelerisque sapien.</p>
-                        <p><b>tags:</b> tag1,tag2,tag3,...</p>
+                        <p><b>tags:</b><a href="search/tag1.php">#Tag 1</a>,<a href="search/tag1.php">#Tag 2</a>,<a href="search/tag1.php">#Tag 3</a></p>
                     </div>
                 </div>
         </div>        

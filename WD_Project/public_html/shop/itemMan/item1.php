@@ -66,7 +66,7 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget urna quis massa sodales finibus non ac lacus. Praesent metus mauris, laoreet quis tristique tristique, fringilla ut quam.</p>
                     </div>
                     <div class="tags">
-                        <p><b>tags:</b> tag1,tag2,tag3,...</p>
+                        <p><b>tags:</b><a href="../../search/tag1.php">#Tag 1</a>,<a href="../../search/tag1.php">#Tag 2</a>,<a href="../../search/tag1.php">#Tag 3</a></p>
                     </div>
                 </div>
             </div>            
